@@ -1,0 +1,919 @@
+Sender: starting on host cherokee
+
+Sender: Handshake established
+Sender: PUT pa2.pdf to server
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: packet 1 dropped, resent
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: packet 1 dropped, resent
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: packet 1 dropped, resent
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: packet 0 dropped, resent
+Sender: packet 0 dropped, resent
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: packet 0 dropped, resent
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: packet 1 dropped, resent
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: sent packet 0
+Sender: received ACK for packet 1
+Sender: sent packet 1
+Sender: received ACK for packet 0
+Sender: file transfer completed
+Sender: effective bytes sent: 31360
+Sender: number of packets sent 491
+Sender: number of bytes sent 39280
+
+Sender: Handshake established
+Sender: received packet 0
+Sender: sent ACK for packet 0
+Sender: received packet 1
+Sender: sent ACK for packet 1
+Sender: received packet 0
+Sender: sent ACK for packet 0
+Sender: received packet 1
+Sender: sent ACK for packet 1
+Sender: received packet 0
+Sender: sent ACK for packet 0
+Sender: received packet 1
+Sender: sent ACK for packet 1
+Sender: received packet 0
+Sender: sent ACK for packet 0
+Sender: received packet 1
+Sender: sent ACK for packet 1
+Sender: received packet 0
+Sender: sent ACK for packet 0
+Sender: received packet 1
+Sender: sent ACK for packet 1
+
+Sender: Handshake established
+Sender: GET fasldkfjaskldfj.txt from server
+Sender: file transfer completed
+Sender: number of packets received 0
+Sender: number of bytes received 0

@@ -1,0 +1,2326 @@
+Sender: starting on host hidatsa
+
+Sender: Handshake established
+Sender: PUT pa2.pdf to server
+Sender: Packets 0 - 9 sent.
+Sender: Packet ACK'd - 0
+Sender: Packet ACK'd - 2
+Sender: Packet ACK'd - 1
+Sender: Packet ACK'd - 3
+Sender: Packet ACK'd - 4
+Sender: Packet ACK'd - 5
+Sender: Packet ACK'd - 6
+Sender: Packet ACK'd - 7
+Sender: Packet ACK'd - 8
+Sender: Packet ACK'd - 9
+Sender: Packets 10 - 19 sent.
+Sender: Packet ACK'd - 10
+Sender: Packet ACK'd - 12
+Sender: Packet ACK'd - 11
+Sender: Packet ACK'd - 13
+Sender: Packet ACK'd - 14
+Sender: Packet ACK'd - 15
+Sender: Packet ACK'd - 16
+Sender: Packet ACK'd - 17
+Sender: Packet ACK'd - 18
+Sender: Packet ACK'd - 19
+Sender: Packets 20 - 29 sent.
+Sender: Packet ACK'd - 21
+Sender: Packet ACK'd - 20
+Sender: Packet ACK'd - 23
+Sender: Packet ACK'd - 22
+Sender: Packet ACK'd - 24
+Sender: Packet ACK'd - 25
+Sender: Packet ACK'd - 26
+Sender: Packet ACK'd - 27
+Sender: Packet NAK'd - 28
+Sender: Packets 28 - 37 sent.
+Sender: Packet ACK'd - 28
+Sender: Packet NAK'd - 29
+Sender: Packets 29 - 38 sent.
+Sender: Packet NAK'd - 29
+Sender: Packets 29 - 38 sent.
+Sender: Packet ACK'd - 29
+Sender: Packet NAK'd - 30
+Sender: Packets 30 - 39 sent.
+Sender: Packet NAK'd - 30
+Sender: Packets 30 - 39 sent.
+Sender: Packet NAK'd - 30
+Sender: Packets 30 - 39 sent.
+Sender: Packet NAK'd - 30
+Sender: Packets 30 - 39 sent.
+Sender: Packet NAK'd - 30
+Sender: Packets 30 - 39 sent.
+Sender: Packet NAK'd - 30
+Sender: Packets 30 - 39 sent.
+Sender: Packet ACK'd - 30
+Sender: Packet NAK'd - 30
+Sender: Packets 30 - 39 sent.
+Sender: Packet NAK'd - 31
+Sender: Packets 31 - 40 sent.
+Sender: Packet ACK'd - 31
+Sender: Packet ACK'd - 32
+Sender: Packet ACK'd - 33
+Sender: Packet ACK'd - 34
+Sender: Packet ACK'd - 35
+Sender: Packet ACK'd - 36
+Sender: Packet ACK'd - 37
+Sender: Packet ACK'd - 38
+Sender: Packet NAK'd - 39
+Sender: Packets 39 - 48 sent.
+Sender: Packet NAK'd - 39
+Sender: Packets 39 - 48 sent.
+Sender: Packet NAK'd - 39
+Sender: Packets 39 - 48 sent.
+Sender: Packet NAK'd - 39
+Sender: Packets 39 - 48 sent.
+Sender: Packet NAK'd - 39
+Sender: Packets 39 - 48 sent.
+Sender: Packet NAK'd - 39
+Sender: Packets 39 - 48 sent.
+Sender: Packet NAK'd - 39
+Sender: Packets 39 - 48 sent.
+Sender: Packet NAK'd - 39
+Sender: Packets 39 - 48 sent.
+Sender: Packet NAK'd - 39
+Sender: Packets 39 - 48 sent.
+Sender: Packet NAK'd - 39
+Sender: Packets 39 - 48 sent.
+Sender: Packet NAK'd - 39
+Sender: Packets 39 - 48 sent.
+Sender: Packet NAK'd - 39
+Sender: Packets 39 - 48 sent.
+Sender: Packet NAK'd - 39
+Sender: Packets 39 - 48 sent.
+Sender: Packet NAK'd - 39
+Sender: Packets 39 - 48 sent.
+Sender: Packet NAK'd - 39
+Sender: Packets 39 - 48 sent.
+Sender: Packet NAK'd - 40
+Sender: Packets 40 - 49 sent.
+Sender: Packet NAK'd - 40
+Sender: Packets 40 - 49 sent.
+Sender: Packet NAK'd - 40
+Sender: Packets 40 - 49 sent.
+Sender: Packet NAK'd - 40
+Sender: Packets 40 - 49 sent.
+Sender: Packet NAK'd - 40
+Sender: Packets 40 - 49 sent.
+Sender: Packet NAK'd - 40
+Sender: Packets 40 - 49 sent.
+Sender: Packet NAK'd - 40
+Sender: Packets 40 - 49 sent.
+Sender: Packet NAK'd - 40
+Sender: Packets 40 - 49 sent.
+Sender: Packet NAK'd - 41
+Sender: Packets 41 - 50 sent.
+Sender: Packet NAK'd - 41
+Sender: Packets 41 - 50 sent.
+Sender: Packet ACK'd - 41
+Sender: Packet ACK'd - 42
+Sender: Packet ACK'd - 43
+Sender: Packet ACK'd - 44
+Sender: Packet ACK'd - 45
+Sender: Packet ACK'd - 46
+Sender: Packet ACK'd - 47
+Sender: Packet NAK'd - 48
+Sender: Packets 48 - 57 sent.
+Sender: Packet ACK'd - 48
+Sender: Packet NAK'd - 49
+Sender: Packets 49 - 58 sent.
+Sender: Packet NAK'd - 49
+Sender: Packets 49 - 58 sent.
+Sender: Packet NAK'd - 49
+Sender: Packets 49 - 58 sent.
+Sender: Packet NAK'd - 49
+Sender: Packets 49 - 58 sent.
+Sender: Packet NAK'd - 49
+Sender: Packets 49 - 58 sent.
+Sender: Packet NAK'd - 49
+Sender: Packets 49 - 58 sent.
+Sender: Packet NAK'd - 49
+Sender: Packets 49 - 58 sent.
+Sender: Packet NAK'd - 49
+Sender: Packets 49 - 58 sent.
+Sender: Packet NAK'd - 49
+Sender: Packets 49 - 58 sent.
+Sender: Packet NAK'd - 49
+Sender: Packets 49 - 58 sent.
+Sender: Packet NAK'd - 49
+Sender: Packets 49 - 58 sent.
+Sender: Packet NAK'd - 49
+Sender: Packets 49 - 58 sent.
+Sender: Packet NAK'd - 49
+Sender: Packets 49 - 58 sent.
+Sender: Packet NAK'd - 50
+Sender: Packets 50 - 59 sent.
+Sender: Packet NAK'd - 50
+Sender: Packets 50 - 59 sent.
+Sender: Packet NAK'd - 50
+Sender: Packets 50 - 59 sent.
+Sender: Packet NAK'd - 50
+Sender: Packets 50 - 59 sent.
+Sender: Packet NAK'd - 50
+Sender: Packets 50 - 59 sent.
+Sender: Packet NAK'd - 50
+Sender: Packets 50 - 59 sent.
+Sender: Packet NAK'd - 50
+Sender: Packets 50 - 59 sent.
+Sender: Packet NAK'd - 50
+Sender: Packets 50 - 59 sent.
+Sender: Packet NAK'd - 50
+Sender: Packets 50 - 59 sent.
+Sender: Packet NAK'd - 51
+Sender: Packets 51 - 60 sent.
+Sender: Packet NAK'd - 51
+Sender: Packets 51 - 60 sent.
+Sender: Packet NAK'd - 51
+Sender: Packets 51 - 60 sent.
+Sender: Packet ACK'd - 51
+Sender: Packet ACK'd - 52
+Sender: Packet ACK'd - 53
+Sender: Packet NAK'd - 54
+Sender: Packets 54 - 63 sent.
+Sender: Packet ACK'd - 54
+Sender: Packet NAK'd - 55
+Sender: Packets 55 - 64 sent.
+Sender: Packet NAK'd - 55
+Sender: Packets 55 - 64 sent.
+Sender: Packet NAK'd - 59
+Sender: Packets 59 - 68 sent.
+Sender: Packet NAK'd - 59
+Sender: Packets 59 - 68 sent.
+Sender: Packet NAK'd - 59
+Sender: Packets 59 - 68 sent.
+Sender: Packet NAK'd - 59
+Sender: Packets 59 - 68 sent.
+Sender: Packet NAK'd - 59
+Sender: Packets 59 - 68 sent.
+Sender: Packet NAK'd - 59
+Sender: Packets 59 - 68 sent.
+Sender: Packet NAK'd - 59
+Sender: Packets 59 - 68 sent.
+Sender: Packet NAK'd - 59
+Sender: Packets 59 - 68 sent.
+Sender: Packet NAK'd - 59
+Sender: Packets 59 - 68 sent.
+Sender: Packet NAK'd - 59
+Sender: Packets 59 - 68 sent.
+Sender: Packet NAK'd - 59
+Sender: Packets 59 - 68 sent.
+Sender: Packet NAK'd - 59
+Sender: Packets 59 - 68 sent.
+Sender: Packet NAK'd - 59
+Sender: Packets 59 - 68 sent.
+Sender: Packet NAK'd - 60
+Sender: Packets 60 - 69 sent.
+Sender: Packet NAK'd - 60
+Sender: Packets 60 - 69 sent.
+Sender: Packet NAK'd - 60
+Sender: Packets 60 - 69 sent.
+Sender: Packet NAK'd - 60
+Sender: Packets 60 - 69 sent.
+Sender: Packet NAK'd - 60
+Sender: Packets 60 - 69 sent.
+Sender: Packet NAK'd - 60
+Sender: Packets 60 - 69 sent.
+Sender: Packet NAK'd - 60
+Sender: Packets 60 - 69 sent.
+Sender: Packet NAK'd - 60
+Sender: Packets 60 - 69 sent.
+Sender: Packet NAK'd - 60
+Sender: Packets 60 - 69 sent.
+Sender: Packet NAK'd - 60
+Sender: Packets 60 - 69 sent.
+Sender: Packet NAK'd - 61
+Sender: Packets 61 - 70 sent.
+Sender: Packet NAK'd - 61
+Sender: Packets 61 - 70 sent.
+Sender: Packet NAK'd - 61
+Sender: Packets 61 - 70 sent.
+Sender: Packet NAK'd - 61
+Sender: Packets 61 - 70 sent.
+Sender: Packet NAK'd - 61
+Sender: Packets 61 - 70 sent.
+Sender: Packet NAK'd - 64
+Sender: Packets 64 - 73 sent.
+Sender: Packet NAK'd - 64
+Sender: Packets 64 - 73 sent.
+Sender: Packet NAK'd - 65
+Sender: Packets 65 - 74 sent.
+Sender: Packet NAK'd - 65
+Sender: Packets 65 - 74 sent.
+Sender: Packet NAK'd - 69
+Sender: Packets 69 - 78 sent.
+Sender: Packet NAK'd - 69
+Sender: Packets 69 - 78 sent.
+Sender: Packet NAK'd - 69
+Sender: Packets 69 - 78 sent.
+Sender: Packet NAK'd - 69
+Sender: Packets 69 - 78 sent.
+Sender: Packet NAK'd - 69
+Sender: Packets 69 - 78 sent.
+Sender: Packet NAK'd - 69
+Sender: Packets 69 - 78 sent.
+Sender: Packet NAK'd - 69
+Sender: Packets 69 - 78 sent.
+Sender: Packet NAK'd - 69
+Sender: Packets 69 - 78 sent.
+Sender: Packet NAK'd - 69
+Sender: Packets 69 - 78 sent.
+Sender: Packet NAK'd - 69
+Sender: Packets 69 - 78 sent.
+Sender: Packet NAK'd - 69
+Sender: Packets 69 - 78 sent.
+Sender: Packet NAK'd - 69
+Sender: Packets 69 - 78 sent.
+Sender: Packet NAK'd - 69
+Sender: Packets 69 - 78 sent.
+Sender: Packet NAK'd - 70
+Sender: Packets 70 - 79 sent.
+Sender: Packet NAK'd - 70
+Sender: Packets 70 - 79 sent.
+Sender: Packet NAK'd - 70
+Sender: Packets 70 - 79 sent.
+Sender: Packet NAK'd - 70
+Sender: Packets 70 - 79 sent.
+Sender: Packet NAK'd - 70
+Sender: Packets 70 - 79 sent.
+Sender: Packet NAK'd - 70
+Sender: Packets 70 - 79 sent.
+Sender: Packet NAK'd - 70
+Sender: Packets 70 - 79 sent.
+Sender: Packet NAK'd - 70
+Sender: Packets 70 - 79 sent.
+Sender: Packet NAK'd - 70
+Sender: Packets 70 - 79 sent.
+Sender: Packet NAK'd - 70
+Sender: Packets 70 - 79 sent.
+Sender: Packet NAK'd - 71
+Sender: Packets 71 - 80 sent.
+Sender: Packet NAK'd - 71
+Sender: Packets 71 - 80 sent.
+Sender: Packet NAK'd - 71
+Sender: Packets 71 - 80 sent.
+Sender: Packet NAK'd - 71
+Sender: Packets 71 - 80 sent.
+Sender: Packet NAK'd - 71
+Sender: Packets 71 - 80 sent.
+Sender: Packet NAK'd - 74
+Sender: Packets 74 - 83 sent.
+Sender: Packet NAK'd - 74
+Sender: Packets 74 - 83 sent.
+Sender: Packet NAK'd - 75
+Sender: Packets 75 - 84 sent.
+Sender: Packet NAK'd - 75
+Sender: Packets 75 - 84 sent.
+Sender: Packet NAK'd - 79
+Sender: Packets 79 - 88 sent.
+Sender: Packet NAK'd - 79
+Sender: Packets 79 - 88 sent.
+Sender: Packet NAK'd - 79
+Sender: Packets 79 - 88 sent.
+Sender: Packet NAK'd - 79
+Sender: Packets 79 - 88 sent.
+Sender: Packet NAK'd - 79
+Sender: Packets 79 - 88 sent.
+Sender: Packet NAK'd - 79
+Sender: Packets 79 - 88 sent.
+Sender: Packet NAK'd - 79
+Sender: Packets 79 - 88 sent.
+Sender: Packet NAK'd - 79
+Sender: Packets 79 - 88 sent.
+Sender: Packet NAK'd - 79
+Sender: Packets 79 - 88 sent.
+Sender: Packet NAK'd - 79
+Sender: Packets 79 - 88 sent.
+Sender: Packet NAK'd - 79
+Sender: Packets 79 - 88 sent.
+Sender: Packet NAK'd - 79
+Sender: Packets 79 - 88 sent.
+Sender: Packet NAK'd - 79
+Sender: Packets 79 - 88 sent.
+Sender: Packet NAK'd - 80
+Sender: Packets 80 - 89 sent.
+Sender: Packet NAK'd - 80
+Sender: Packets 80 - 89 sent.
+Sender: Packet NAK'd - 80
+Sender: Packets 80 - 89 sent.
+Sender: Packet NAK'd - 80
+Sender: Packets 80 - 89 sent.
+Sender: Packet NAK'd - 80
+Sender: Packets 80 - 89 sent.
+Sender: Packet NAK'd - 80
+Sender: Packets 80 - 89 sent.
+Sender: Packet NAK'd - 80
+Sender: Packets 80 - 89 sent.
+Sender: Packet NAK'd - 80
+Sender: Packets 80 - 89 sent.
+Sender: Packet NAK'd - 80
+Sender: Packets 80 - 89 sent.
+Sender: Packet NAK'd - 80
+Sender: Packets 80 - 89 sent.
+Sender: Packet NAK'd - 80
+Sender: Packets 80 - 89 sent.
+Sender: Packet NAK'd - 81
+Sender: Packets 81 - 90 sent.
+Sender: Packet NAK'd - 81
+Sender: Packets 81 - 90 sent.
+Sender: Packet NAK'd - 81
+Sender: Packets 81 - 90 sent.
+Sender: Packet NAK'd - 81
+Sender: Packets 81 - 90 sent.
+Sender: Packet NAK'd - 84
+Sender: Packets 84 - 93 sent.
+Sender: Packet NAK'd - 84
+Sender: Packets 84 - 93 sent.
+Sender: Packet NAK'd - 85
+Sender: Packets 85 - 94 sent.
+Sender: Packet NAK'd - 85
+Sender: Packets 85 - 94 sent.
+Sender: Packet NAK'd - 89
+Sender: Packets 89 - 98 sent.
+Sender: Packet NAK'd - 89
+Sender: Packets 89 - 98 sent.
+Sender: Packet NAK'd - 89
+Sender: Packets 89 - 98 sent.
+Sender: Packet NAK'd - 89
+Sender: Packets 89 - 98 sent.
+Sender: Packet NAK'd - 89
+Sender: Packets 89 - 98 sent.
+Sender: Packet NAK'd - 89
+Sender: Packets 89 - 98 sent.
+Sender: Packet NAK'd - 89
+Sender: Packets 89 - 98 sent.
+Sender: Packet NAK'd - 89
+Sender: Packets 89 - 98 sent.
+Sender: Packet NAK'd - 89
+Sender: Packets 89 - 98 sent.
+Sender: Packet NAK'd - 89
+Sender: Packets 89 - 98 sent.
+Sender: Packet NAK'd - 89
+Sender: Packets 89 - 98 sent.
+Sender: Packet NAK'd - 89
+Sender: Packets 89 - 98 sent.
+Sender: Packet NAK'd - 89
+Sender: Packets 89 - 98 sent.
+Sender: Packet NAK'd - 89
+Sender: Packets 89 - 98 sent.
+Sender: Packet NAK'd - 90
+Sender: Packets 90 - 99 sent.
+Sender: Packet NAK'd - 90
+Sender: Packets 90 - 99 sent.
+Sender: Packet NAK'd - 90
+Sender: Packets 90 - 99 sent.
+Sender: Packet NAK'd - 90
+Sender: Packets 90 - 99 sent.
+Sender: Packet NAK'd - 90
+Sender: Packets 90 - 99 sent.
+Sender: Packet NAK'd - 90
+Sender: Packets 90 - 99 sent.
+Sender: Packet NAK'd - 90
+Sender: Packets 90 - 99 sent.
+Sender: Packet NAK'd - 90
+Sender: Packets 90 - 99 sent.
+Sender: Packet NAK'd - 90
+Sender: Packets 90 - 99 sent.
+Sender: Packet NAK'd - 90
+Sender: Packets 90 - 99 sent.
+Sender: Packet NAK'd - 91
+Sender: Packets 91 - 100 sent.
+Sender: Packet NAK'd - 91
+Sender: Packets 91 - 100 sent.
+Sender: Packet NAK'd - 91
+Sender: Packets 91 - 100 sent.
+Sender: Packet NAK'd - 91
+Sender: Packets 91 - 100 sent.
+Sender: Packet NAK'd - 94
+Sender: Packets 94 - 103 sent.
+Sender: Packet NAK'd - 95
+Sender: Packets 95 - 104 sent.
+Sender: Packet NAK'd - 94
+Sender: Packets 94 - 103 sent.
+Sender: Packet NAK'd - 95
+Sender: Packets 95 - 104 sent.
+Sender: Packet NAK'd - 99
+Sender: Packets 99 - 108 sent.
+Sender: Packet NAK'd - 99
+Sender: Packets 99 - 108 sent.
+Sender: Packet NAK'd - 99
+Sender: Packets 99 - 108 sent.
+Sender: Packet NAK'd - 99
+Sender: Packets 99 - 108 sent.
+Sender: Packet NAK'd - 99
+Sender: Packets 99 - 108 sent.
+Sender: Packet NAK'd - 99
+Sender: Packets 99 - 108 sent.
+Sender: Packet NAK'd - 99
+Sender: Packets 99 - 108 sent.
+Sender: Packet NAK'd - 99
+Sender: Packets 99 - 108 sent.
+Sender: Packet NAK'd - 99
+Sender: Packets 99 - 108 sent.
+Sender: Packet NAK'd - 99
+Sender: Packets 99 - 108 sent.
+Sender: Packet NAK'd - 99
+Sender: Packets 99 - 108 sent.
+Sender: Packet NAK'd - 99
+Sender: Packets 99 - 108 sent.
+Sender: Packet NAK'd - 99
+Sender: Packets 99 - 108 sent.
+Sender: Packet NAK'd - 99
+Sender: Packets 99 - 108 sent.
+Sender: Packet NAK'd - 100
+Sender: Packets 100 - 109 sent.
+Sender: Packet NAK'd - 100
+Sender: Packets 100 - 109 sent.
+Sender: Packet NAK'd - 100
+Sender: Packets 100 - 109 sent.
+Sender: Packet NAK'd - 100
+Sender: Packets 100 - 109 sent.
+Sender: Packet NAK'd - 100
+Sender: Packets 100 - 109 sent.
+Sender: Packet NAK'd - 100
+Sender: Packets 100 - 109 sent.
+Sender: Packet NAK'd - 100
+Sender: Packets 100 - 109 sent.
+Sender: Packet NAK'd - 100
+Sender: Packets 100 - 109 sent.
+Sender: Packet NAK'd - 100
+Sender: Packets 100 - 109 sent.
+Sender: Packet NAK'd - 100
+Sender: Packets 100 - 109 sent.
+Sender: Packet NAK'd - 101
+Sender: Packets 101 - 110 sent.
+Sender: Packet NAK'd - 101
+Sender: Packets 101 - 110 sent.
+Sender: Packet NAK'd - 101
+Sender: Packets 101 - 110 sent.
+Sender: Packet NAK'd - 101
+Sender: Packets 101 - 110 sent.
+Sender: Packet NAK'd - 104
+Sender: Packets 104 - 113 sent.
+Sender: Packet NAK'd - 104
+Sender: Packets 104 - 113 sent.
+Sender: Packet NAK'd - 105
+Sender: Packets 105 - 114 sent.
+Sender: Packet NAK'd - 105
+Sender: Packets 105 - 114 sent.
+Sender: Packet NAK'd - 105
+Sender: Packets 105 - 114 sent.
+Sender: Packet NAK'd - 109
+Sender: Packets 109 - 118 sent.
+Sender: Packet NAK'd - 109
+Sender: Packets 109 - 118 sent.
+Sender: Packet NAK'd - 109
+Sender: Packets 109 - 118 sent.
+Sender: Packet NAK'd - 109
+Sender: Packets 109 - 118 sent.
+Sender: Packet NAK'd - 109
+Sender: Packets 109 - 118 sent.
+Sender: Packet NAK'd - 109
+Sender: Packets 109 - 118 sent.
+Sender: Packet NAK'd - 109
+Sender: Packets 109 - 118 sent.
+Sender: Packet NAK'd - 109
+Sender: Packets 109 - 118 sent.
+Sender: Packet NAK'd - 109
+Sender: Packets 109 - 118 sent.
+Sender: Packet NAK'd - 109
+Sender: Packets 109 - 118 sent.
+Sender: Packet NAK'd - 109
+Sender: Packets 109 - 118 sent.
+Sender: Packet NAK'd - 109
+Sender: Packets 109 - 118 sent.
+Sender: Packet NAK'd - 109
+Sender: Packets 109 - 118 sent.
+Sender: Packet NAK'd - 110
+Sender: Packets 110 - 119 sent.
+Sender: Packet NAK'd - 110
+Sender: Packets 110 - 119 sent.
+Sender: Packet NAK'd - 110
+Sender: Packets 110 - 119 sent.
+Sender: Packet NAK'd - 110
+Sender: Packets 110 - 119 sent.
+Sender: Packet NAK'd - 110
+Sender: Packets 110 - 119 sent.
+Sender: Packet NAK'd - 110
+Sender: Packets 110 - 119 sent.
+Sender: Packet NAK'd - 110
+Sender: Packets 110 - 119 sent.
+Sender: Packet NAK'd - 110
+Sender: Packets 110 - 119 sent.
+Sender: Packet NAK'd - 110
+Sender: Packets 110 - 119 sent.
+Sender: Packet NAK'd - 110
+Sender: Packets 110 - 119 sent.
+Sender: Packet NAK'd - 111
+Sender: Packets 111 - 120 sent.
+Sender: Packet NAK'd - 111
+Sender: Packets 111 - 120 sent.
+Sender: Packet NAK'd - 111
+Sender: Packets 111 - 120 sent.
+Sender: Packet NAK'd - 111
+Sender: Packets 111 - 120 sent.
+Sender: Packet NAK'd - 114
+Sender: Packets 114 - 123 sent.
+Sender: Packet NAK'd - 114
+Sender: Packets 114 - 123 sent.
+Sender: Packet NAK'd - 115
+Sender: Packets 115 - 124 sent.
+Sender: Packet NAK'd - 115
+Sender: Packets 115 - 124 sent.
+Sender: Packet NAK'd - 115
+Sender: Packets 115 - 124 sent.
+Sender: Packet NAK'd - 119
+Sender: Packets 119 - 128 sent.
+Sender: Packet NAK'd - 119
+Sender: Packets 119 - 128 sent.
+Sender: Packet NAK'd - 119
+Sender: Packets 119 - 128 sent.
+Sender: Packet NAK'd - 119
+Sender: Packets 119 - 128 sent.
+Sender: Packet NAK'd - 119
+Sender: Packets 119 - 128 sent.
+Sender: Packet NAK'd - 119
+Sender: Packets 119 - 128 sent.
+Sender: Packet NAK'd - 119
+Sender: Packets 119 - 128 sent.
+Sender: Packet NAK'd - 119
+Sender: Packets 119 - 128 sent.
+Sender: Packet NAK'd - 119
+Sender: Packets 119 - 128 sent.
+Sender: Packet NAK'd - 119
+Sender: Packets 119 - 128 sent.
+Sender: Packet NAK'd - 119
+Sender: Packets 119 - 128 sent.
+Sender: Packet NAK'd - 119
+Sender: Packets 119 - 128 sent.
+Sender: Packet NAK'd - 119
+Sender: Packets 119 - 128 sent.
+Sender: Packet NAK'd - 119
+Sender: Packets 119 - 128 sent.
+Sender: Packet NAK'd - 120
+Sender: Packets 120 - 129 sent.
+Sender: Packet NAK'd - 120
+Sender: Packets 120 - 129 sent.
+Sender: Packet NAK'd - 120
+Sender: Packets 120 - 129 sent.
+Sender: Packet NAK'd - 120
+Sender: Packets 120 - 129 sent.
+Sender: Packet NAK'd - 120
+Sender: Packets 120 - 129 sent.
+Sender: Packet NAK'd - 120
+Sender: Packets 120 - 129 sent.
+Sender: Packet NAK'd - 120
+Sender: Packets 120 - 129 sent.
+Sender: Packet NAK'd - 120
+Sender: Packets 120 - 129 sent.
+Sender: Packet NAK'd - 120
+Sender: Packets 120 - 129 sent.
+Sender: Packet NAK'd - 121
+Sender: Packets 121 - 130 sent.
+Sender: Packet NAK'd - 121
+Sender: Packets 121 - 130 sent.
+Sender: Packet NAK'd - 121
+Sender: Packets 121 - 130 sent.
+Sender: Packet NAK'd - 121
+Sender: Packets 121 - 130 sent.
+Sender: Packet NAK'd - 123
+Sender: End of file reached
+Sender: file transfer completed
+Sender: effective bytes sent: 13056
+Sender: number of packets sent 2693
+Sender: number of bytes sent 689408
+
+Sender: Handshake established
+Sender: Filename exists
+Sender: PUT pa2.pdf to server
+Sender: Packets 0 - 9 sent.
+Sender: Packet ACK'd - 0
+Sender: Packet NAK'd - 1
+Sender: Packets 1 - 10 sent.
+Sender: Packet ACK'd - 1
+Sender: Packet NAK'd - 2
+Sender: Packets 2 - 11 sent.
+Sender: Packet NAK'd - 2
+Sender: Packets 2 - 11 sent.
+Sender: Packet NAK'd - 2
+Sender: Packets 2 - 11 sent.
+Sender: Packet NAK'd - 2
+Sender: Packets 2 - 11 sent.
+Sender: Packet NAK'd - 2
+Sender: Packets 2 - 11 sent.
+Sender: Packet NAK'd - 2
+Sender: Packets 2 - 11 sent.
+Sender: Packet NAK'd - 2
+Sender: Packets 2 - 11 sent.
+Sender: Packet NAK'd - 2
+Sender: Packets 2 - 11 sent.
+Sender: Packet ACK'd - 3
+Sender: Packet ACK'd - 2
+Sender: Packet ACK'd - 4
+Sender: Packet ACK'd - 5
+Sender: Packet ACK'd - 6
+Sender: Packet ACK'd - 7
+Sender: Packet ACK'd - 8
+Sender: Packet ACK'd - 9
+Sender: Packet NAK'd - 10
+Sender: Packets 10 - 19 sent.
+Sender: Packet ACK'd - 10
+Sender: Packet NAK'd - 11
+Sender: Packets 11 - 20 sent.
+Sender: Packet NAK'd - 11
+Sender: Packets 11 - 20 sent.
+Sender: Packet NAK'd - 11
+Sender: Packets 11 - 20 sent.
+Sender: Packet NAK'd - 11
+Sender: Packets 11 - 20 sent.
+Sender: Packet NAK'd - 11
+Sender: Packets 11 - 20 sent.
+Sender: Packet NAK'd - 11
+Sender: Packets 11 - 20 sent.
+Sender: Packet NAK'd - 11
+Sender: Packets 11 - 20 sent.
+Sender: Packet NAK'd - 11
+Sender: Packets 11 - 20 sent.
+Sender: Packet ACK'd - 11
+Sender: Packet NAK'd - 12
+Sender: Packets 12 - 21 sent.
+Sender: Packet NAK'd - 12
+Sender: Packets 12 - 21 sent.
+Sender: Packet NAK'd - 12
+Sender: Packets 12 - 21 sent.
+Sender: Packet NAK'd - 12
+Sender: Packets 12 - 21 sent.
+Sender: Packet NAK'd - 12
+Sender: Packets 12 - 21 sent.
+Sender: Packet NAK'd - 12
+Sender: Packets 12 - 21 sent.
+Sender: Packet NAK'd - 12
+Sender: Packets 12 - 21 sent.
+Sender: Packet NAK'd - 12
+Sender: Packets 12 - 21 sent.
+Sender: Packet NAK'd - 12
+Sender: Packets 12 - 21 sent.
+Sender: Packet NAK'd - 12
+Sender: Packets 12 - 21 sent.
+Sender: Packet NAK'd - 12
+Sender: Packets 12 - 21 sent.
+Sender: Packet NAK'd - 12
+Sender: Packets 12 - 21 sent.
+Sender: Packet NAK'd - 12
+Sender: Packets 12 - 21 sent.
+Sender: Packet NAK'd - 12
+Sender: Packets 12 - 21 sent.
+Sender: Packet ACK'd - 12
+Sender: Packet ACK'd - 13
+Sender: Packet ACK'd - 14
+Sender: Packet ACK'd - 15
+Sender: Packet ACK'd - 17
+Sender: Packet ACK'd - 16
+Sender: Packet ACK'd - 18
+Sender: Packet NAK'd - 20
+Sender: Packets 20 - 29 sent.
+Sender: Packet NAK'd - 20
+Sender: Packets 20 - 29 sent.
+Sender: Packet NAK'd - 21
+Sender: Packets 21 - 30 sent.
+Sender: Packet NAK'd - 21
+Sender: Packets 21 - 30 sent.
+Sender: Packet NAK'd - 21
+Sender: Packets 21 - 30 sent.
+Sender: Packet NAK'd - 21
+Sender: Packets 21 - 30 sent.
+Sender: Packet NAK'd - 21
+Sender: Packets 21 - 30 sent.
+Sender: Packet NAK'd - 21
+Sender: Packets 21 - 30 sent.
+Sender: Packet NAK'd - 21
+Sender: Packets 21 - 30 sent.
+Sender: Packet NAK'd - 21
+Sender: Packets 21 - 30 sent.
+Sender: Packet NAK'd - 21
+Sender: Packets 21 - 30 sent.
+Sender: Packet NAK'd - 22
+Sender: Packets 22 - 31 sent.
+Sender: Packet NAK'd - 22
+Sender: Packets 22 - 31 sent.
+Sender: Packet NAK'd - 22
+Sender: Packets 22 - 31 sent.
+Sender: Packet NAK'd - 22
+Sender: Packets 22 - 31 sent.
+Sender: Packet NAK'd - 22
+Sender: Packets 22 - 31 sent.
+Sender: Packet NAK'd - 22
+Sender: Packets 22 - 31 sent.
+Sender: Packet NAK'd - 22
+Sender: Packets 22 - 31 sent.
+Sender: Packet NAK'd - 22
+Sender: Packets 22 - 31 sent.
+Sender: Packet NAK'd - 22
+Sender: Packets 22 - 31 sent.
+Sender: Packet NAK'd - 22
+Sender: Packets 22 - 31 sent.
+Sender: Packet NAK'd - 22
+Sender: Packets 22 - 31 sent.
+Sender: Packet NAK'd - 22
+Sender: Packets 22 - 31 sent.
+Sender: Packet NAK'd - 22
+Sender: Packets 22 - 31 sent.
+Sender: Packet NAK'd - 22
+Sender: Packets 22 - 31 sent.
+Sender: Packet NAK'd - 22
+Sender: Packets 22 - 31 sent.
+Sender: Packet ACK'd - 22
+Sender: Packet ACK'd - 23
+Sender: Packet ACK'd - 24
+Sender: Packet ACK'd - 25
+Sender: Packet ACK'd - 26
+Sender: Packet ACK'd - 27
+Sender: Packet NAK'd - 29
+Sender: Packets 29 - 38 sent.
+Sender: Packet NAK'd - 30
+Sender: Packets 30 - 39 sent.
+Sender: Packet NAK'd - 31
+Sender: Packets 31 - 40 sent.
+Sender: Packet NAK'd - 31
+Sender: Packets 31 - 40 sent.
+Sender: Packet NAK'd - 31
+Sender: Packets 31 - 40 sent.
+Sender: Packet NAK'd - 31
+Sender: Packets 31 - 40 sent.
+Sender: Packet NAK'd - 31
+Sender: Packets 31 - 40 sent.
+Sender: Packet NAK'd - 31
+Sender: Packets 31 - 40 sent.
+Sender: Packet NAK'd - 31
+Sender: Packets 31 - 40 sent.
+Sender: Packet NAK'd - 31
+Sender: Packets 31 - 40 sent.
+Sender: Packet NAK'd - 31
+Sender: Packets 31 - 40 sent.
+Sender: Packet NAK'd - 32
+Sender: Packets 32 - 41 sent.
+Sender: Packet NAK'd - 32
+Sender: Packets 32 - 41 sent.
+Sender: Packet NAK'd - 32
+Sender: Packets 32 - 41 sent.
+Sender: Packet NAK'd - 32
+Sender: Packets 32 - 41 sent.
+Sender: Packet NAK'd - 32
+Sender: Packets 32 - 41 sent.
+Sender: Packet NAK'd - 32
+Sender: Packets 32 - 41 sent.
+Sender: Packet NAK'd - 32
+Sender: Packets 32 - 41 sent.
+Sender: Packet NAK'd - 32
+Sender: Packets 32 - 41 sent.
+Sender: Packet NAK'd - 32
+Sender: Packets 32 - 41 sent.
+Sender: Packet NAK'd - 32
+Sender: Packets 32 - 41 sent.
+Sender: Packet NAK'd - 32
+Sender: Packets 32 - 41 sent.
+Sender: Packet NAK'd - 32
+Sender: Packets 32 - 41 sent.
+Sender: Packet NAK'd - 32
+Sender: Packets 32 - 41 sent.
+Sender: Packet NAK'd - 32
+Sender: Packets 32 - 41 sent.
+Sender: Packet NAK'd - 32
+Sender: Packets 32 - 41 sent.
+Sender: Packet NAK'd - 32
+Sender: Packets 32 - 41 sent.
+Sender: Packet ACK'd - 32
+Sender: Packet NAK'd - 32
+Sender: Packets 32 - 41 sent.
+Sender: Packet ACK'd - 33
+Sender: Packet ACK'd - 34
+Sender: Packet ACK'd - 35
+Sender: Packet NAK'd - 39
+Sender: Packets 39 - 48 sent.
+Sender: Packet NAK'd - 40
+Sender: Packets 40 - 49 sent.
+Sender: Packet NAK'd - 41
+Sender: Packets 41 - 50 sent.
+Sender: Packet NAK'd - 40
+Sender: Packets 40 - 49 sent.
+Sender: Packet NAK'd - 41
+Sender: Packets 41 - 50 sent.
+Sender: Packet NAK'd - 41
+Sender: Packets 41 - 50 sent.
+Sender: Packet NAK'd - 41
+Sender: Packets 41 - 50 sent.
+Sender: Packet NAK'd - 41
+Sender: Packets 41 - 50 sent.
+Sender: Packet NAK'd - 41
+Sender: Packets 41 - 50 sent.
+Sender: Packet NAK'd - 41
+Sender: Packets 41 - 50 sent.
+Sender: Packet NAK'd - 41
+Sender: Packets 41 - 50 sent.
+Sender: Packet NAK'd - 41
+Sender: Packets 41 - 50 sent.
+Sender: Packet NAK'd - 42
+Sender: Packets 42 - 51 sent.
+Sender: Packet NAK'd - 42
+Sender: Packets 42 - 51 sent.
+Sender: Packet NAK'd - 42
+Sender: Packets 42 - 51 sent.
+Sender: Packet NAK'd - 42
+Sender: Packets 42 - 51 sent.
+Sender: Packet NAK'd - 42
+Sender: Packets 42 - 51 sent.
+Sender: Packet NAK'd - 42
+Sender: Packets 42 - 51 sent.
+Sender: Packet NAK'd - 42
+Sender: Packets 42 - 51 sent.
+Sender: Packet NAK'd - 42
+Sender: Packets 42 - 51 sent.
+Sender: Packet NAK'd - 42
+Sender: Packets 42 - 51 sent.
+Sender: Packet NAK'd - 42
+Sender: Packets 42 - 51 sent.
+Sender: Packet NAK'd - 42
+Sender: Packets 42 - 51 sent.
+Sender: Packet NAK'd - 42
+Sender: Packets 42 - 51 sent.
+Sender: Packet NAK'd - 42
+Sender: Packets 42 - 51 sent.
+Sender: Packet NAK'd - 42
+Sender: Packets 42 - 51 sent.
+Sender: Packet NAK'd - 42
+Sender: Packets 42 - 51 sent.
+Sender: Packet NAK'd - 42
+Sender: Packets 42 - 51 sent.
+Sender: Packet NAK'd - 42
+Sender: Packets 42 - 51 sent.
+Sender: Packet NAK'd - 42
+Sender: Packets 42 - 51 sent.
+Sender: Packet ACK'd - 42
+Sender: Packet NAK'd - 43
+Sender: Packets 43 - 52 sent.
+Sender: Packet NAK'd - 44
+Sender: Packets 44 - 53 sent.
+Sender: Packet NAK'd - 50
+Sender: Packets 50 - 59 sent.
+Sender: Packet NAK'd - 50
+Sender: Packets 50 - 59 sent.
+Sender: Packet NAK'd - 51
+Sender: Packets 51 - 60 sent.
+Sender: Packet NAK'd - 51
+Sender: Packets 51 - 60 sent.
+Sender: Packet NAK'd - 51
+Sender: Packets 51 - 60 sent.
+Sender: Packet NAK'd - 51
+Sender: Packets 51 - 60 sent.
+Sender: Packet NAK'd - 51
+Sender: Packets 51 - 60 sent.
+Sender: Packet NAK'd - 51
+Sender: Packets 51 - 60 sent.
+Sender: Packet NAK'd - 51
+Sender: Packets 51 - 60 sent.
+Sender: Packet NAK'd - 51
+Sender: Packets 51 - 60 sent.
+Sender: Packet NAK'd - 51
+Sender: Packets 51 - 60 sent.
+Sender: Packet NAK'd - 52
+Sender: Packets 52 - 61 sent.
+Sender: Packet NAK'd - 52
+Sender: Packets 52 - 61 sent.
+Sender: Packet NAK'd - 52
+Sender: Packets 52 - 61 sent.
+Sender: Packet NAK'd - 52
+Sender: Packets 52 - 61 sent.
+Sender: Packet NAK'd - 52
+Sender: Packets 52 - 61 sent.
+Sender: Packet NAK'd - 52
+Sender: Packets 52 - 61 sent.
+Sender: Packet NAK'd - 52
+Sender: Packets 52 - 61 sent.
+Sender: Packet NAK'd - 52
+Sender: Packets 52 - 61 sent.
+Sender: Packet NAK'd - 52
+Sender: Packets 52 - 61 sent.
+Sender: Packet NAK'd - 52
+Sender: Packets 52 - 61 sent.
+Sender: Packet NAK'd - 52
+Sender: Packets 52 - 61 sent.
+Sender: Packet NAK'd - 52
+Sender: Packets 52 - 61 sent.
+Sender: Packet NAK'd - 52
+Sender: Packets 52 - 61 sent.
+Sender: Packet NAK'd - 52
+Sender: Packets 52 - 61 sent.
+Sender: Packet NAK'd - 52
+Sender: Packets 52 - 61 sent.
+Sender: Packet NAK'd - 52
+Sender: Packets 52 - 61 sent.
+Sender: Packet NAK'd - 52
+Sender: Packets 52 - 61 sent.
+Sender: Packet NAK'd - 52
+Sender: Packets 52 - 61 sent.
+Sender: Packet NAK'd - 52
+Sender: Packets 52 - 61 sent.
+Sender: Packet NAK'd - 53
+Sender: Packets 53 - 62 sent.
+Sender: Packet NAK'd - 54
+Sender: Packets 54 - 63 sent.
+Sender: Packet NAK'd - 58
+Sender: Packets 58 - 67 sent.
+Sender: Packet NAK'd - 60
+Sender: Packets 60 - 69 sent.
+Sender: Packet NAK'd - 61
+Sender: Packets 61 - 70 sent.
+Sender: Packet NAK'd - 61
+Sender: Packets 61 - 70 sent.
+Sender: Packet NAK'd - 61
+Sender: Packets 61 - 70 sent.
+Sender: Packet NAK'd - 61
+Sender: Packets 61 - 70 sent.
+Sender: Packet NAK'd - 61
+Sender: Packets 61 - 70 sent.
+Sender: Packet NAK'd - 61
+Sender: Packets 61 - 70 sent.
+Sender: Packet NAK'd - 61
+Sender: Packets 61 - 70 sent.
+Sender: Packet NAK'd - 61
+Sender: Packets 61 - 70 sent.
+Sender: Packet NAK'd - 61
+Sender: Packets 61 - 70 sent.
+Sender: Packet NAK'd - 62
+Sender: Packets 62 - 71 sent.
+Sender: Packet NAK'd - 62
+Sender: Packets 62 - 71 sent.
+Sender: Packet NAK'd - 62
+Sender: Packets 62 - 71 sent.
+Sender: Packet NAK'd - 62
+Sender: Packets 62 - 71 sent.
+Sender: Packet NAK'd - 62
+Sender: Packets 62 - 71 sent.
+Sender: Packet NAK'd - 62
+Sender: Packets 62 - 71 sent.
+Sender: Packet NAK'd - 62
+Sender: Packets 62 - 71 sent.
+Sender: Packet NAK'd - 62
+Sender: Packets 62 - 71 sent.
+Sender: Packet NAK'd - 62
+Sender: Packets 62 - 71 sent.
+Sender: Packet NAK'd - 62
+Sender: Packets 62 - 71 sent.
+Sender: Packet NAK'd - 62
+Sender: Packets 62 - 71 sent.
+Sender: Packet NAK'd - 62
+Sender: Packets 62 - 71 sent.
+Sender: Packet NAK'd - 62
+Sender: Packets 62 - 71 sent.
+Sender: Packet NAK'd - 62
+Sender: Packets 62 - 71 sent.
+Sender: Packet NAK'd - 62
+Sender: Packets 62 - 71 sent.
+Sender: Packet NAK'd - 62
+Sender: Packets 62 - 71 sent.
+Sender: Packet NAK'd - 62
+Sender: Packets 62 - 71 sent.
+Sender: Packet NAK'd - 62
+Sender: Packets 62 - 71 sent.
+Sender: Packet NAK'd - 62
+Sender: Packets 62 - 71 sent.
+Sender: Packet NAK'd - 63
+Sender: Packets 63 - 72 sent.
+Sender: Packet NAK'd - 64
+Sender: Packets 64 - 73 sent.
+Sender: Packet NAK'd - 68
+Sender: Packets 68 - 77 sent.
+Sender: Packet NAK'd - 70
+Sender: Packets 70 - 79 sent.
+Sender: Packet NAK'd - 71
+Sender: Packets 71 - 80 sent.
+Sender: Packet NAK'd - 71
+Sender: Packets 71 - 80 sent.
+Sender: Packet NAK'd - 71
+Sender: Packets 71 - 80 sent.
+Sender: Packet NAK'd - 71
+Sender: Packets 71 - 80 sent.
+Sender: Packet NAK'd - 71
+Sender: Packets 71 - 80 sent.
+Sender: Packet NAK'd - 71
+Sender: Packets 71 - 80 sent.
+Sender: Packet NAK'd - 71
+Sender: Packets 71 - 80 sent.
+Sender: Packet NAK'd - 71
+Sender: Packets 71 - 80 sent.
+Sender: Packet NAK'd - 71
+Sender: Packets 71 - 80 sent.
+Sender: Packet NAK'd - 71
+Sender: Packets 71 - 80 sent.
+Sender: Packet NAK'd - 72
+Sender: Packets 72 - 81 sent.
+Sender: Packet NAK'd - 72
+Sender: Packets 72 - 81 sent.
+Sender: Packet NAK'd - 72
+Sender: Packets 72 - 81 sent.
+Sender: Packet NAK'd - 72
+Sender: Packets 72 - 81 sent.
+Sender: Packet NAK'd - 72
+Sender: Packets 72 - 81 sent.
+Sender: Packet NAK'd - 72
+Sender: Packets 72 - 81 sent.
+Sender: Packet NAK'd - 72
+Sender: Packets 72 - 81 sent.
+Sender: Packet NAK'd - 72
+Sender: Packets 72 - 81 sent.
+Sender: Packet NAK'd - 72
+Sender: Packets 72 - 81 sent.
+Sender: Packet NAK'd - 72
+Sender: Packets 72 - 81 sent.
+Sender: Packet NAK'd - 72
+Sender: Packets 72 - 81 sent.
+Sender: Packet NAK'd - 72
+Sender: Packets 72 - 81 sent.
+Sender: Packet NAK'd - 72
+Sender: Packets 72 - 81 sent.
+Sender: Packet NAK'd - 72
+Sender: Packets 72 - 81 sent.
+Sender: Packet NAK'd - 72
+Sender: Packets 72 - 81 sent.
+Sender: Packet NAK'd - 72
+Sender: Packets 72 - 81 sent.
+Sender: Packet NAK'd - 72
+Sender: Packets 72 - 81 sent.
+Sender: Packet NAK'd - 72
+Sender: Packets 72 - 81 sent.
+Sender: Packet NAK'd - 72
+Sender: Packets 72 - 81 sent.
+Sender: Packet NAK'd - 74
+Sender: Packets 74 - 83 sent.
+Sender: Packet NAK'd - 78
+Sender: Packets 78 - 87 sent.
+Sender: Packet NAK'd - 80
+Sender: Packets 80 - 89 sent.
+Sender: Packet NAK'd - 81
+Sender: Packets 81 - 90 sent.
+Sender: Packet NAK'd - 81
+Sender: Packets 81 - 90 sent.
+Sender: Packet NAK'd - 81
+Sender: Packets 81 - 90 sent.
+Sender: Packet NAK'd - 81
+Sender: Packets 81 - 90 sent.
+Sender: Packet NAK'd - 81
+Sender: Packets 81 - 90 sent.
+Sender: Packet NAK'd - 81
+Sender: Packets 81 - 90 sent.
+Sender: Packet NAK'd - 81
+Sender: Packets 81 - 90 sent.
+Sender: Packet NAK'd - 81
+Sender: Packets 81 - 90 sent.
+Sender: Packet NAK'd - 81
+Sender: Packets 81 - 90 sent.
+Sender: Packet NAK'd - 81
+Sender: Packets 81 - 90 sent.
+Sender: Packet NAK'd - 81
+Sender: Packets 81 - 90 sent.
+Sender: Packet NAK'd - 82
+Sender: Packets 82 - 91 sent.
+Sender: Packet NAK'd - 82
+Sender: Packets 82 - 91 sent.
+Sender: Packet NAK'd - 82
+Sender: Packets 82 - 91 sent.
+Sender: Packet NAK'd - 82
+Sender: Packets 82 - 91 sent.
+Sender: Packet NAK'd - 82
+Sender: Packets 82 - 91 sent.
+Sender: Packet NAK'd - 82
+Sender: Packets 82 - 91 sent.
+Sender: Packet NAK'd - 82
+Sender: Packets 82 - 91 sent.
+Sender: Packet NAK'd - 82
+Sender: Packets 82 - 91 sent.
+Sender: Packet NAK'd - 82
+Sender: Packets 82 - 91 sent.
+Sender: Packet NAK'd - 82
+Sender: Packets 82 - 91 sent.
+Sender: Packet NAK'd - 82
+Sender: Packets 82 - 91 sent.
+Sender: Packet NAK'd - 82
+Sender: Packets 82 - 91 sent.
+Sender: Packet NAK'd - 82
+Sender: Packets 82 - 91 sent.
+Sender: Packet NAK'd - 82
+Sender: Packets 82 - 91 sent.
+Sender: Packet NAK'd - 82
+Sender: Packets 82 - 91 sent.
+Sender: Packet NAK'd - 82
+Sender: Packets 82 - 91 sent.
+Sender: Packet NAK'd - 82
+Sender: Packets 82 - 91 sent.
+Sender: Packet NAK'd - 82
+Sender: Packets 82 - 91 sent.
+Sender: Packet NAK'd - 84
+Sender: Packets 84 - 93 sent.
+Sender: Packet NAK'd - 88
+Sender: Packets 88 - 97 sent.
+Sender: Packet NAK'd - 91
+Sender: Packets 91 - 100 sent.
+Sender: Packet NAK'd - 90
+Sender: Packets 90 - 99 sent.
+Sender: Packet NAK'd - 91
+Sender: Packets 91 - 100 sent.
+Sender: Packet NAK'd - 91
+Sender: Packets 91 - 100 sent.
+Sender: Packet NAK'd - 91
+Sender: Packets 91 - 100 sent.
+Sender: Packet NAK'd - 91
+Sender: Packets 91 - 100 sent.
+Sender: Packet NAK'd - 91
+Sender: Packets 91 - 100 sent.
+Sender: Packet NAK'd - 91
+Sender: Packets 91 - 100 sent.
+Sender: Packet NAK'd - 91
+Sender: Packets 91 - 100 sent.
+Sender: Packet NAK'd - 91
+Sender: Packets 91 - 100 sent.
+Sender: Packet NAK'd - 91
+Sender: Packets 91 - 100 sent.
+Sender: Packet NAK'd - 91
+Sender: Packets 91 - 100 sent.
+Sender: Packet NAK'd - 92
+Sender: Packets 92 - 101 sent.
+Sender: Packet NAK'd - 92
+Sender: Packets 92 - 101 sent.
+Sender: Packet NAK'd - 92
+Sender: Packets 92 - 101 sent.
+Sender: Packet NAK'd - 92
+Sender: Packets 92 - 101 sent.
+Sender: Packet NAK'd - 92
+Sender: Packets 92 - 101 sent.
+Sender: Packet NAK'd - 92
+Sender: Packets 92 - 101 sent.
+Sender: Packet NAK'd - 92
+Sender: Packets 92 - 101 sent.
+Sender: Packet NAK'd - 92
+Sender: Packets 92 - 101 sent.
+Sender: Packet NAK'd - 92
+Sender: Packets 92 - 101 sent.
+Sender: Packet NAK'd - 92
+Sender: Packets 92 - 101 sent.
+Sender: Packet NAK'd - 92
+Sender: Packets 92 - 101 sent.
+Sender: Packet NAK'd - 92
+Sender: Packets 92 - 101 sent.
+Sender: Packet NAK'd - 92
+Sender: Packets 92 - 101 sent.
+Sender: Packet NAK'd - 92
+Sender: Packets 92 - 101 sent.
+Sender: Packet NAK'd - 92
+Sender: Packets 92 - 101 sent.
+Sender: Packet NAK'd - 92
+Sender: Packets 92 - 101 sent.
+Sender: Packet NAK'd - 92
+Sender: Packets 92 - 101 sent.
+Sender: Packet NAK'd - 94
+Sender: Packets 94 - 103 sent.
+Sender: Packet NAK'd - 92
+Sender: Packets 92 - 101 sent.
+Sender: Packet NAK'd - 98
+Sender: Packets 98 - 107 sent.
+Sender: Packet NAK'd - 98
+Sender: Packets 98 - 107 sent.
+Sender: Packet NAK'd - 100
+Sender: Packets 100 - 109 sent.
+Sender: Packet NAK'd - 101
+Sender: Packets 101 - 110 sent.
+Sender: Packet NAK'd - 100
+Sender: Packets 100 - 109 sent.
+Sender: Packet NAK'd - 101
+Sender: Packets 101 - 110 sent.
+Sender: Packet NAK'd - 101
+Sender: Packets 101 - 110 sent.
+Sender: Packet NAK'd - 101
+Sender: Packets 101 - 110 sent.
+Sender: Packet NAK'd - 101
+Sender: Packets 101 - 110 sent.
+Sender: Packet NAK'd - 101
+Sender: Packets 101 - 110 sent.
+Sender: Packet NAK'd - 101
+Sender: Packets 101 - 110 sent.
+Sender: Packet NAK'd - 101
+Sender: Packets 101 - 110 sent.
+Sender: Packet NAK'd - 101
+Sender: Packets 101 - 110 sent.
+Sender: Packet NAK'd - 102
+Sender: Packets 102 - 111 sent.
+Sender: Packet NAK'd - 102
+Sender: Packets 102 - 111 sent.
+Sender: Packet NAK'd - 102
+Sender: Packets 102 - 111 sent.
+Sender: Packet NAK'd - 102
+Sender: Packets 102 - 111 sent.
+Sender: Packet NAK'd - 102
+Sender: Packets 102 - 111 sent.
+Sender: Packet NAK'd - 102
+Sender: Packets 102 - 111 sent.
+Sender: Packet NAK'd - 102
+Sender: Packets 102 - 111 sent.
+Sender: Packet NAK'd - 102
+Sender: Packets 102 - 111 sent.
+Sender: Packet NAK'd - 102
+Sender: Packets 102 - 111 sent.
+Sender: Packet NAK'd - 102
+Sender: Packets 102 - 111 sent.
+Sender: Packet NAK'd - 102
+Sender: Packets 102 - 111 sent.
+Sender: Packet NAK'd - 102
+Sender: Packets 102 - 111 sent.
+Sender: Packet NAK'd - 102
+Sender: Packets 102 - 111 sent.
+Sender: Packet NAK'd - 102
+Sender: Packets 102 - 111 sent.
+Sender: Packet NAK'd - 102
+Sender: Packets 102 - 111 sent.
+Sender: Packet NAK'd - 102
+Sender: Packets 102 - 111 sent.
+Sender: Packet NAK'd - 102
+Sender: Packets 102 - 111 sent.
+Sender: Packet NAK'd - 102
+Sender: Packets 102 - 111 sent.
+Sender: Packet NAK'd - 103
+Sender: Packets 103 - 112 sent.
+Sender: Packet NAK'd - 107
+Sender: Packets 107 - 116 sent.
+Sender: Packet NAK'd - 108
+Sender: Packets 108 - 117 sent.
+Sender: Packet NAK'd - 110
+Sender: Packets 110 - 119 sent.
+Sender: Packet NAK'd - 111
+Sender: Packets 111 - 120 sent.
+Sender: Packet NAK'd - 110
+Sender: Packets 110 - 119 sent.
+Sender: Packet NAK'd - 111
+Sender: Packets 111 - 120 sent.
+Sender: Packet NAK'd - 111
+Sender: Packets 111 - 120 sent.
+Sender: Packet NAK'd - 111
+Sender: Packets 111 - 120 sent.
+Sender: Packet NAK'd - 111
+Sender: Packets 111 - 120 sent.
+Sender: Packet NAK'd - 111
+Sender: Packets 111 - 120 sent.
+Sender: Packet NAK'd - 111
+Sender: Packets 111 - 120 sent.
+Sender: Packet NAK'd - 111
+Sender: Packets 111 - 120 sent.
+Sender: Packet NAK'd - 111
+Sender: Packets 111 - 120 sent.
+Sender: Packet NAK'd - 112
+Sender: Packets 112 - 121 sent.
+Sender: Packet NAK'd - 112
+Sender: Packets 112 - 121 sent.
+Sender: Packet NAK'd - 112
+Sender: Packets 112 - 121 sent.
+Sender: Packet NAK'd - 112
+Sender: Packets 112 - 121 sent.
+Sender: Packet NAK'd - 112
+Sender: Packets 112 - 121 sent.
+Sender: Packet NAK'd - 112
+Sender: Packets 112 - 121 sent.
+Sender: Packet NAK'd - 112
+Sender: Packets 112 - 121 sent.
+Sender: Packet NAK'd - 112
+Sender: Packets 112 - 121 sent.
+Sender: Packet NAK'd - 112
+Sender: Packets 112 - 121 sent.
+Sender: Packet NAK'd - 112
+Sender: Packets 112 - 121 sent.
+Sender: Packet NAK'd - 112
+Sender: Packets 112 - 121 sent.
+Sender: Packet NAK'd - 112
+Sender: Packets 112 - 121 sent.
+Sender: Packet NAK'd - 112
+Sender: Packets 112 - 121 sent.
+Sender: Packet NAK'd - 112
+Sender: Packets 112 - 121 sent.
+Sender: Packet NAK'd - 112
+Sender: Packets 112 - 121 sent.
+Sender: Packet NAK'd - 112
+Sender: Packets 112 - 121 sent.
+Sender: Packet NAK'd - 112
+Sender: Packets 112 - 121 sent.
+Sender: Packet NAK'd - 112
+Sender: Packets 112 - 121 sent.
+Sender: Packet NAK'd - 113
+Sender: Packets 113 - 122 sent.
+Sender: Packet NAK'd - 117
+Sender: Packets 117 - 126 sent.
+Sender: Packet NAK'd - 118
+Sender: Packets 118 - 127 sent.
+Sender: Packet NAK'd - 120
+Sender: Packets 120 - 129 sent.
+Sender: Packet NAK'd - 120
+Sender: Packets 120 - 129 sent.
+Sender: Packet NAK'd - 121
+Sender: Packets 121 - 130 sent.
+Sender: Packet NAK'd - 121
+Sender: Packets 121 - 130 sent.
+Sender: Packet NAK'd - 121
+Sender: Packets 121 - 130 sent.
+Sender: Packet NAK'd - 121
+Sender: Packets 121 - 130 sent.
+Sender: Packet NAK'd - 121
+Sender: Packets 121 - 130 sent.
+Sender: Packet NAK'd - 121
+Sender: Packets 121 - 130 sent.
+Sender: Packet NAK'd - 121
+Sender: Packets 121 - 130 sent.
+Sender: Packet NAK'd - 121
+Sender: Packets 121 - 130 sent.
+Sender: Packet NAK'd - 121
+Sender: Packets 121 - 130 sent.
+Sender: Packet NAK'd - 122
+Sender: Packets 122 - 131 sent.
+Sender: Packet NAK'd - 122
+Sender: Packets 122 - 131 sent.
+Sender: Packet NAK'd - 122
+Sender: Packets 122 - 131 sent.
+Sender: Packet NAK'd - 122
+Sender: Packets 122 - 131 sent.
+Sender: Packet NAK'd - 122
+Sender: Packets 122 - 131 sent.
+Sender: Packet NAK'd - 122
+Sender: Packets 122 - 131 sent.
+Sender: Packet NAK'd - 122
+Sender: Packets 122 - 131 sent.
+Sender: Packet NAK'd - 122
+Sender: Packets 122 - 131 sent.
+Sender: Packet NAK'd - 122
+Sender: Packets 122 - 131 sent.
+Sender: Packet NAK'd - 122
+Sender: Packets 122 - 131 sent.
+Sender: Packet NAK'd - 122
+Sender: Packets 122 - 131 sent.
+Sender: Packet NAK'd - 122
+Sender: Packets 122 - 131 sent.
+Sender: Packet NAK'd - 122
+Sender: Packets 122 - 131 sent.
+Sender: Packet NAK'd - 122
+Sender: Packets 122 - 131 sent.
+Sender: Packet NAK'd - 122
+Sender: Packets 122 - 131 sent.
+Sender: Packet NAK'd - 122
+Sender: Packets 122 - 131 sent.
+Sender: Packet NAK'd - 122
+Sender: Packets 122 - 131 sent.
+Sender: Packet NAK'd - 122
+Sender: Packets 122 - 131 sent.
+Sender: Packet NAK'd - 123
+Sender: End of file reached
+Sender: file transfer completed
+Sender: effective bytes sent: 7680
+Sender: number of packets sent 3483
+Sender: number of bytes sent 891648
+
+Sender: Handshake established
+Sender: GET pa2b.pdf from server
+Sender: Sequence 1 rejected
+Sender: Sequence 0 accepted
+Sender: Sequence 2 rejected
+Sender: Sequence 3 rejected
+Sender: Sequence 4 rejected
+Sender: Sequence 5 rejected
+Sender: Sequence 7 rejected
+Sender: Sequence 6 rejected
+Sender: Sequence 8 rejected
+Sender: Sequence 9 rejected
+Sender: Sequence 0 rejected
+Sender: Sequence 1 accepted
+Sender: Sequence 2 accepted
+Sender: Sequence 3 accepted
+Sender: Sequence 5 rejected
+Sender: Sequence 4 accepted
+Sender: Sequence 6 rejected
+Sender: Sequence 7 rejected
+Sender: Sequence 8 rejected
+Sender: Sequence 9 rejected
+Sender: Sequence 2 rejected
+Sender: Sequence 1 rejected
+Sender: Sequence 3 rejected
+Sender: Sequence 4 rejected
+Sender: Sequence 5 accepted
+Sender: Sequence 6 accepted
+Sender: Sequence 7 accepted
+Sender: Sequence 8 accepted
+Sender: Sequence 10 rejected
+Sender: Sequence 9 accepted
+Sender: Sequence 1 rejected
+Sender: Sequence 2 rejected
+Sender: Sequence 3 rejected
+Sender: Sequence 5 rejected
+Sender: Sequence 4 rejected
+Sender: Sequence 1 rejected
+Sender: Sequence 1 rejected
+Sender: Sequence 1 rejected
+Sender: Sequence 2 rejected
+Sender: Sequence 1 rejected
+Sender: Sequence 1 rejected
+Sender: Sequence 1 rejected
+Sender: Sequence 4 rejected
+Sender: Sequence 5 rejected
+Sender: Sequence 6 rejected
+Sender: Sequence 7 rejected
+Sender: Sequence 8 rejected
+Sender: Sequence 5 rejected
+Sender: Sequence 5 rejected
+Sender: Sequence 5 rejected
+Sender: Sequence 6 rejected
+Sender: Sequence 5 rejected
+Sender: Sequence 6 rejected
+Sender: Sequence 5 rejected
+Sender: Sequence 5 rejected
+Sender: Sequence 9 rejected
+Sender: Sequence 10 accepted
+Sender: Sequence 11 accepted
+Sender: Sequence 12 accepted
+Sender: Sequence 13 accepted
+Sender: Sequence 14 accepted
+Sender: Sequence 10 rejected
+Sender: Sequence 10 rejected
+Sender: Sequence 10 rejected
+Sender: Sequence 10 rejected
+Sender: Sequence 11 rejected
+Sender: Sequence 10 rejected
+Sender: Sequence 10 rejected
+Sender: Sequence 10 rejected
+Sender: Sequence 10 rejected
+Sender: Sequence 10 rejected
+Sender: Sequence 10 rejected
+Sender: Sequence 10 rejected
+Sender: Sequence 10 rejected
+Sender: Sequence 10 rejected
+Sender: Sequence 10 rejected
+Sender: Sequence 10 rejected
+Sender: Sequence 10 rejected
+Sender: Sequence 10 rejected
+Sender: Sequence 10 rejected
+Sender: Sequence 11 rejected
+Sender: Sequence 10 rejected
+Sender: Sequence 10 rejected
+Sender: Sequence 11 rejected
+Sender: Sequence 10 rejected
+Sender: Sequence 10 rejected
+Sender: Sequence 10 rejected
+Sender: Sequence 15 accepted
+Sender: Sequence 16 accepted
+Sender: Sequence 17 accepted
+Sender: Sequence 18 accepted
+Sender: Sequence 19 accepted
+Sender: Sequence 20 accepted
+Sender: Sequence 15 rejected
+Sender: Sequence 15 rejected
+Sender: Sequence 15 rejected
+Sender: Sequence 15 rejected
+Sender: Sequence 15 rejected
+Sender: Sequence 15 rejected
+Sender: Sequence 15 rejected
+Sender: Sequence 15 rejected
+Sender: Sequence 15 rejected
+Sender: Sequence 16 rejected
+Sender: Sequence 15 rejected
+Sender: Sequence 15 rejected
+Sender: Sequence 15 rejected
+Sender: Sequence 16 rejected
+Sender: Sequence 15 rejected
+Sender: Sequence 15 rejected
+Sender: Sequence 15 rejected
+Sender: Sequence 15 rejected
+Sender: Sequence 15 rejected
+Sender: Sequence 16 rejected
+Sender: Sequence 15 rejected
+Sender: Sequence 15 rejected
+Sender: Sequence 15 rejected
+Sender: Sequence 15 rejected
+Sender: Sequence 15 rejected
+Sender: Sequence 21 accepted
+Sender: Sequence 22 accepted
+Sender: Sequence 23 accepted
+Sender: Sequence 24 accepted
+Sender: Sequence 25 accepted
+Sender: Sequence 26 accepted
+Sender: Sequence 27 accepted
+Sender: Sequence 21 rejected
+Sender: Sequence 21 rejected
+Sender: Sequence 21 rejected
+Sender: Sequence 21 rejected
+Sender: Sequence 21 rejected
+Sender: Sequence 21 rejected
+Sender: Sequence 21 rejected
+Sender: Sequence 21 rejected
+Sender: Sequence 21 rejected
+Sender: Sequence 22 rejected
+Sender: Sequence 21 rejected
+Sender: Sequence 21 rejected
+Sender: Sequence 21 rejected
+Sender: Sequence 22 rejected
+Sender: Sequence 21 rejected
+Sender: Sequence 21 rejected
+Sender: Sequence 21 rejected
+Sender: Sequence 22 rejected
+Sender: Sequence 21 rejected
+Sender: Sequence 21 rejected
+Sender: Sequence 21 rejected
+Sender: Sequence 21 rejected
+Sender: Sequence 21 rejected
+Sender: Sequence 21 rejected
+Sender: Sequence 28 accepted
+Sender: Sequence 29 accepted
+Sender: Sequence 31 rejected
+Sender: Sequence 30 accepted
+Sender: Sequence 32 rejected
+Sender: Sequence 33 rejected
+Sender: Sequence 34 rejected
+Sender: Sequence 35 rejected
+Sender: Sequence 28 rejected
+Sender: Sequence 29 rejected
+Sender: Sequence 28 rejected
+Sender: Sequence 28 rejected
+Sender: Sequence 28 rejected
+Sender: Sequence 29 rejected
+Sender: Sequence 28 rejected
+Sender: Sequence 28 rejected
+Sender: Sequence 28 rejected
+Sender: Sequence 28 rejected
+Sender: Sequence 28 rejected
+Sender: Sequence 28 rejected
+Sender: Sequence 28 rejected
+Sender: Sequence 28 rejected
+Sender: Sequence 29 rejected
+Sender: Sequence 28 rejected
+Sender: Sequence 28 rejected
+Sender: Sequence 28 rejected
+Sender: Sequence 28 rejected
+Sender: Sequence 28 rejected
+Sender: Sequence 28 rejected
+Sender: Sequence 28 rejected
+Sender: Sequence 28 rejected
+Sender: Sequence 30 rejected
+Sender: Sequence 31 accepted
+Sender: Sequence 32 accepted
+Sender: Sequence 33 accepted
+Sender: Sequence 31 rejected
+Sender: Sequence 31 rejected
+Sender: Sequence 31 rejected
+Sender: Sequence 31 rejected
+Sender: Sequence 31 rejected
+Sender: Sequence 32 rejected
+Sender: Sequence 31 rejected
+Sender: Sequence 32 rejected
+Sender: Sequence 31 rejected
+Sender: Sequence 31 rejected
+Sender: Sequence 31 rejected
+Sender: Sequence 31 rejected
+Sender: Sequence 31 rejected
+Sender: Sequence 31 rejected
+Sender: Sequence 31 rejected
+Sender: Sequence 31 rejected
+Sender: Sequence 31 rejected
+Sender: Sequence 31 rejected
+Sender: Sequence 31 rejected
+Sender: Sequence 31 rejected
+Sender: Sequence 31 rejected
+Sender: Sequence 31 rejected
+Sender: Sequence 31 rejected
+Sender: Sequence 31 rejected
+Sender: Sequence 31 rejected
+Sender: Sequence 31 rejected
+Sender: Sequence 31 rejected
+Sender: Sequence 31 rejected
+Sender: Sequence 34 accepted
+Sender: Sequence 35 accepted
+Sender: Sequence 36 accepted
+Sender: Sequence 37 accepted
+Sender: Sequence 34 rejected
+Sender: Sequence 34 rejected
+Sender: Sequence 35 rejected
+Sender: Sequence 34 rejected
+Sender: Sequence 34 rejected
+Sender: Sequence 34 rejected
+Sender: Sequence 34 rejected
+Sender: Sequence 35 rejected
+Sender: Sequence 34 rejected
+Sender: Sequence 34 rejected
+Sender: Sequence 34 rejected
+Sender: Sequence 34 rejected
+Sender: Sequence 34 rejected
+Sender: Sequence 35 rejected
+Sender: Sequence 34 rejected
+Sender: Sequence 35 rejected
+Sender: Sequence 34 rejected
+Sender: Sequence 35 rejected
+Sender: Sequence 34 rejected
+Sender: Sequence 34 rejected
+Sender: Sequence 34 rejected
+Sender: Sequence 34 rejected
+Sender: Sequence 34 rejected
+Sender: Sequence 34 rejected
+Sender: Sequence 34 rejected
+Sender: Sequence 34 rejected
+Sender: Sequence 34 rejected
+Sender: Sequence 38 accepted
+Sender: Sequence 39 accepted
+Sender: Sequence 40 accepted
+Sender: Sequence 42 rejected
+Sender: Sequence 41 accepted
+Sender: Sequence 38 rejected
+Sender: Sequence 38 rejected
+Sender: Sequence 38 rejected
+Sender: Sequence 38 rejected
+Sender: Sequence 39 rejected
+Sender: Sequence 38 rejected
+Sender: Sequence 38 rejected
+Sender: Sequence 38 rejected
+Sender: Sequence 38 rejected
+Sender: Sequence 38 rejected
+Sender: Sequence 38 rejected
+Sender: Sequence 38 rejected
+Sender: Sequence 39 rejected
+Sender: Sequence 38 rejected
+Sender: Sequence 38 rejected
+Sender: Sequence 38 rejected
+Sender: Sequence 38 rejected
+Sender: Sequence 39 rejected
+Sender: Sequence 38 rejected
+Sender: Sequence 38 rejected
+Sender: Sequence 38 rejected
+Sender: Sequence 38 rejected
+Sender: Sequence 38 rejected
+Sender: Sequence 39 rejected
+Sender: Sequence 38 rejected
+Sender: Sequence 38 rejected
+Sender: Sequence 41 rejected
+Sender: Sequence 42 accepted
+Sender: Sequence 43 accepted
+Sender: Sequence 44 accepted
+Sender: Sequence 45 accepted
+Sender: Sequence 42 rejected
+Sender: Sequence 42 rejected
+Sender: Sequence 42 rejected
+Sender: Sequence 42 rejected
+Sender: Sequence 42 rejected
+Sender: Sequence 42 rejected
+Sender: Sequence 42 rejected
+Sender: Sequence 42 rejected
+Sender: Sequence 42 rejected
+Sender: Sequence 42 rejected
+Sender: Sequence 43 rejected
+Sender: Sequence 42 rejected
+Sender: Sequence 42 rejected
+Sender: Sequence 43 rejected
+Sender: Sequence 42 rejected
+Sender: Sequence 42 rejected
+Sender: Sequence 43 rejected
+Sender: Sequence 42 rejected
+Sender: Sequence 42 rejected
+Sender: Sequence 42 rejected
+Sender: Sequence 42 rejected
+Sender: Sequence 43 rejected
+Sender: Sequence 42 rejected
+Sender: Sequence 42 rejected
+Sender: Sequence 42 rejected
+Sender: Sequence 42 rejected
+Sender: Sequence 46 accepted
+Sender: Sequence 42 rejected
+Sender: Sequence 47 accepted
+Sender: Sequence 48 accepted
+Sender: Sequence 49 accepted
+Sender: Sequence 50 accepted
+Sender: Sequence 46 rejected
+Sender: Sequence 46 rejected
+Sender: Sequence 46 rejected
+Sender: Sequence 46 rejected
+Sender: Sequence 46 rejected
+Sender: Sequence 46 rejected
+Sender: Sequence 46 rejected
+Sender: Sequence 47 rejected
+Sender: Sequence 46 rejected
+Sender: Sequence 46 rejected
+Sender: Sequence 47 rejected
+Sender: Sequence 46 rejected
+Sender: Sequence 46 rejected
+Sender: Sequence 46 rejected
+Sender: Sequence 46 rejected
+Sender: Sequence 46 rejected
+Sender: Sequence 46 rejected
+Sender: Sequence 46 rejected
+Sender: Sequence 46 rejected
+Sender: Sequence 46 rejected
+Sender: Sequence 47 rejected
+Sender: Sequence 46 rejected
+Sender: Sequence 47 rejected
+Sender: Sequence 46 rejected
+Sender: Sequence 46 rejected
+Sender: Sequence 47 rejected
+Sender: Sequence 48 rejected
+Sender: Sequence 51 accepted
+Sender: Sequence 52 accepted
+Sender: Sequence 53 accepted
+Sender: Sequence 54 accepted
+Sender: Sequence 55 accepted
+Sender: Sequence 56 accepted
+Sender: Sequence 51 rejected
+Sender: Sequence 51 rejected
+Sender: Sequence 51 rejected
+Sender: Sequence 51 rejected
+Sender: Sequence 52 rejected
+Sender: Sequence 51 rejected
+Sender: Sequence 51 rejected
+Sender: Sequence 51 rejected
+Sender: Sequence 51 rejected
+Sender: Sequence 52 rejected
+Sender: Sequence 51 rejected
+Sender: Sequence 51 rejected
+Sender: Sequence 51 rejected
+Sender: Sequence 51 rejected
+Sender: Sequence 51 rejected
+Sender: Sequence 51 rejected
+Sender: Sequence 51 rejected
+Sender: Sequence 51 rejected
+Sender: Sequence 51 rejected
+Sender: Sequence 52 rejected
+Sender: Sequence 51 rejected
+Sender: Sequence 51 rejected
+Sender: Sequence 51 rejected
+Sender: Sequence 51 rejected
+Sender: Sequence 57 accepted
+Sender: Sequence 51 rejected
+Sender: Sequence 58 accepted
+Sender: Sequence 59 accepted
+Sender: Sequence 60 accepted
+Sender: Sequence 61 accepted
+Sender: Sequence 63 rejected
+Sender: Sequence 62 accepted
+Sender: Sequence 57 rejected
+Sender: Sequence 58 rejected
+Sender: Sequence 57 rejected
+Sender: Sequence 57 rejected
+Sender: Sequence 58 rejected
+Sender: Sequence 57 rejected
+Sender: Sequence 57 rejected
+Sender: Sequence 57 rejected
+Sender: Sequence 57 rejected
+Sender: Sequence 57 rejected
+Sender: Sequence 57 rejected
+Sender: Sequence 57 rejected
+Sender: Sequence 57 rejected
+Sender: Sequence 58 rejected
+Sender: Sequence 57 rejected
+Sender: Sequence 57 rejected
+Sender: Sequence 57 rejected
+Sender: Sequence 57 rejected
+Sender: Sequence 57 rejected
+Sender: Sequence 57 rejected
+Sender: Sequence 57 rejected
+Sender: Sequence 57 rejected
+Sender: Sequence 57 rejected
+Sender: Sequence 58 rejected
+Sender: Sequence 60 rejected
+Sender: Sequence 59 rejected
+Sender: Sequence 62 rejected
+Sender: Sequence 63 accepted
+Sender: Sequence 64 accepted
+Sender: Sequence 65 accepted
+Sender: Sequence 66 accepted
+Sender: Sequence 63 rejected
+Sender: Sequence 63 rejected
+Sender: Sequence 63 rejected
+Sender: Sequence 63 rejected
+Sender: Sequence 64 rejected
+Sender: Sequence 63 rejected
+Sender: Sequence 64 rejected
+Sender: Sequence 63 rejected
+Sender: Sequence 63 rejected
+Sender: Sequence 63 rejected
+Sender: Sequence 63 rejected
+Sender: Sequence 63 rejected
+Sender: Sequence 63 rejected
+Sender: Sequence 64 rejected
+Sender: Sequence 63 rejected
+Sender: Sequence 63 rejected
+Sender: Sequence 64 rejected
+Sender: Sequence 63 rejected
+Sender: Sequence 63 rejected
+Sender: Sequence 63 rejected
+Sender: Sequence 63 rejected
+Sender: Sequence 63 rejected
+Sender: Sequence 64 rejected
+Sender: Sequence 63 rejected
+Sender: Sequence 63 rejected
+Sender: Sequence 64 rejected
+Sender: Sequence 63 rejected
+Sender: Sequence 64 rejected
+Sender: Sequence 65 rejected
+Sender: Sequence 67 accepted
+Sender: Sequence 68 accepted
+Sender: Sequence 69 accepted
+Sender: Sequence 70 accepted
+Sender: Sequence 67 rejected
+Sender: Sequence 67 rejected
+Sender: Sequence 68 rejected
+Sender: Sequence 67 rejected
+Sender: Sequence 67 rejected
+Sender: Sequence 67 rejected
+Sender: Sequence 67 rejected
+Sender: Sequence 67 rejected
+Sender: Sequence 67 rejected
+Sender: Sequence 68 rejected
+Sender: Sequence 67 rejected
+Sender: Sequence 67 rejected
+Sender: Sequence 68 rejected
+Sender: Sequence 68 rejected
+Sender: Sequence 67 rejected
+Sender: Sequence 67 rejected
+Sender: Sequence 67 rejected
+Sender: Sequence 67 rejected
+Sender: Sequence 67 rejected
+Sender: Sequence 67 rejected
+Sender: Sequence 68 rejected
+Sender: Sequence 67 rejected
+Sender: Sequence 67 rejected
+Sender: Sequence 67 rejected
+Sender: Sequence 67 rejected
+Sender: Sequence 67 rejected
+Sender: Sequence 67 rejected
+Sender: Sequence 71 accepted
+Sender: Sequence 72 accepted
+Sender: Sequence 74 rejected
+Sender: Sequence 73 accepted
+Sender: Sequence 75 rejected
+Sender: Sequence 71 rejected
+Sender: Sequence 71 rejected
+Sender: Sequence 71 rejected
+Sender: Sequence 71 rejected
+Sender: Sequence 71 rejected
+Sender: Sequence 71 rejected
+Sender: Sequence 71 rejected
+Sender: Sequence 71 rejected
+Sender: Sequence 71 rejected
+Sender: Sequence 71 rejected
+Sender: Sequence 71 rejected
+Sender: Sequence 71 rejected
+Sender: Sequence 71 rejected
+Sender: Sequence 72 rejected
+Sender: Sequence 71 rejected
+Sender: Sequence 71 rejected
+Sender: Sequence 71 rejected
+Sender: Sequence 71 rejected
+Sender: Sequence 71 rejected
+Sender: Sequence 71 rejected
+Sender: Sequence 71 rejected
+Sender: Sequence 71 rejected
+Sender: Sequence 72 rejected
+Sender: Sequence 71 rejected
+Sender: Sequence 71 rejected
+Sender: Sequence 71 rejected
+Sender: Sequence 74 accepted
+Sender: Sequence 73 rejected
+Sender: Sequence 75 accepted
+Sender: Sequence 76 accepted
+Sender: Sequence 74 rejected
+Sender: Sequence 74 rejected
+Sender: Sequence 74 rejected
+Sender: Sequence 74 rejected
+Sender: Sequence 75 rejected
+Sender: Sequence 74 rejected
+Sender: Sequence 74 rejected
+Sender: Sequence 74 rejected
+Sender: Sequence 74 rejected
+Sender: Sequence 74 rejected
+Sender: Sequence 75 rejected
+Sender: Sequence 74 rejected
+Sender: Sequence 75 rejected
+Sender: Sequence 74 rejected
+Sender: Sequence 74 rejected
+Sender: Sequence 74 rejected
+Sender: Sequence 75 rejected
+Sender: Sequence 74 rejected
+Sender: Sequence 74 rejected
+Sender: Sequence 75 rejected
+Sender: Sequence 74 rejected
+Sender: Sequence 74 rejected
+Sender: Sequence 75 rejected
+Sender: Sequence 74 rejected
+Sender: Sequence 74 rejected
+Sender: Sequence 74 rejected
+Sender: Sequence 74 rejected
+Sender: Sequence 75 rejected
+Sender: Sequence 76 rejected
+Sender: Sequence 77 accepted
+Sender: Sequence 78 accepted
+Sender: Sequence 79 accepted
+Sender: Sequence 77 rejected
+Sender: Sequence 77 rejected
+Sender: Sequence 77 rejected
+Sender: Sequence 77 rejected
+Sender: Sequence 77 rejected
+Sender: Sequence 77 rejected
+Sender: Sequence 77 rejected
+Sender: Sequence 77 rejected
+Sender: Sequence 77 rejected
+Sender: Sequence 77 rejected
+Sender: Sequence 77 rejected
+Sender: Sequence 77 rejected
+Sender: Sequence 78 rejected
+Sender: Sequence 77 rejected
+Sender: Sequence 77 rejected
+Sender: Sequence 77 rejected
+Sender: Sequence 77 rejected
+Sender: Sequence 77 rejected
+Sender: Sequence 78 rejected
+Sender: Sequence 77 rejected
+Sender: Sequence 77 rejected
+Sender: Sequence 78 rejected
+Sender: Sequence 77 rejected
+Sender: Sequence 77 rejected
+Sender: Sequence 77 rejected
+Sender: Sequence 77 rejected
+Sender: Sequence 77 rejected
+Sender: Sequence 77 rejected
+Sender: Sequence 80 accepted
+Sender: Sequence 82 rejected
+Sender: Sequence 81 accepted
+Sender: Sequence 83 rejected
+Sender: Sequence 80 rejected
+Sender: Sequence 80 rejected
+Sender: Sequence 80 rejected
+Sender: Sequence 80 rejected
+Sender: Sequence 80 rejected
+Sender: Sequence 80 rejected
+Sender: Sequence 80 rejected
+Sender: Sequence 80 rejected
+Sender: Sequence 80 rejected
+Sender: Sequence 80 rejected
+Sender: Sequence 80 rejected
+Sender: Sequence 80 rejected
+Sender: Sequence 80 rejected
+Sender: Sequence 80 rejected
+Sender: Sequence 80 rejected
+Sender: Sequence 80 rejected
+Sender: Sequence 80 rejected
+Sender: Sequence 80 rejected
+Sender: Sequence 80 rejected
+Sender: Sequence 80 rejected
+Sender: Sequence 80 rejected
+Sender: Sequence 80 rejected
+Sender: Sequence 80 rejected
+Sender: Sequence 81 rejected
+Sender: Sequence 80 rejected
+Sender: Sequence 80 rejected
+Sender: Sequence 81 rejected
+Sender: Sequence 81 rejected
+Sender: Sequence 82 accepted
+Sender: Sequence 83 accepted
+Sender: Sequence 82 rejected
+Sender: Sequence 82 rejected
+Sender: Sequence 82 rejected
+Sender: Sequence 82 rejected
+Sender: Sequence 82 rejected
+Sender: Sequence 82 rejected
+Sender: Sequence 83 rejected
+Sender: Sequence 82 rejected
+Sender: Sequence 82 rejected
+Sender: Sequence 82 rejected
+Sender: Sequence 83 rejected
+Sender: Sequence 82 rejected
+Sender: Sequence 82 rejected
+Sender: Sequence 82 rejected
+Sender: Sequence 82 rejected
+Sender: Sequence 83 rejected
+Sender: Sequence 82 rejected
+Sender: Sequence 82 rejected
+Sender: Sequence 82 rejected
+Sender: Sequence 83 rejected
+Sender: Sequence 82 rejected
+Sender: Sequence 82 rejected
+Sender: Sequence 82 rejected
+Sender: Sequence 82 rejected
+Sender: Sequence 82 rejected
+Sender: Sequence 82 rejected
+Sender: Sequence 82 rejected
+Sender: Sequence 82 rejected
+Sender: Sequence 82 rejected
+Sender: Sequence 84 accepted
+Sender: Sequence 85 accepted
+Sender: Sequence 84 rejected
+Sender: Sequence 86 accepted
+Sender: Sequence 84 rejected
+Sender: Sequence 84 rejected
+Sender: Sequence 84 rejected
+Sender: Sequence 84 rejected
+Sender: Sequence 84 rejected
+Sender: Sequence 84 rejected
+Sender: Sequence 84 rejected
+Sender: Sequence 84 rejected
+Sender: Sequence 84 rejected
+Sender: Sequence 84 rejected
+Sender: Sequence 84 rejected
+Sender: Sequence 84 rejected
+Sender: Sequence 84 rejected
+Sender: Sequence 84 rejected
+Sender: Sequence 85 rejected
+Sender: Sequence 84 rejected
+Sender: Sequence 84 rejected
+Sender: Sequence 84 rejected
+Sender: Sequence 84 rejected
+Sender: Sequence 84 rejected
+Sender: Sequence 84 rejected
+Sender: Sequence 84 rejected
+Sender: Sequence 84 rejected
+Sender: Sequence 84 rejected
+Sender: Sequence 84 rejected
+Sender: Sequence 84 rejected
+Sender: Sequence 84 rejected
+Sender: Sequence 86 rejected
+Sender: Sequence 87 accepted
+Sender: Sequence 88 accepted
+Sender: Sequence 89 accepted
+Sender: Sequence 87 rejected
+Sender: Sequence 87 rejected
+Sender: Sequence 87 rejected
+Sender: Sequence 88 rejected
+Sender: Sequence 87 rejected
+Sender: Sequence 87 rejected
+Sender: Sequence 87 rejected
+Sender: Sequence 87 rejected
+Sender: Sequence 87 rejected
+Sender: Sequence 87 rejected
+Sender: Sequence 87 rejected
+Sender: Sequence 87 rejected
+Sender: Sequence 87 rejected
+Sender: Sequence 87 rejected
+Sender: Sequence 87 rejected
+Sender: Sequence 87 rejected
+Sender: Sequence 87 rejected
+Sender: Sequence 87 rejected
+Sender: Sequence 87 rejected
+Sender: Sequence 87 rejected
+Sender: Sequence 87 rejected
+Sender: Sequence 87 rejected
+Sender: Sequence 87 rejected
+Sender: Sequence 88 rejected
+Sender: Sequence 87 rejected
+Sender: Sequence 87 rejected
+Sender: Sequence 87 rejected
+Sender: Sequence 87 rejected
+Sender: Sequence 90 accepted
+Sender: Sequence 91 accepted
+Sender: Sequence 92 accepted
+Sender: Sequence 93 accepted
+Sender: Sequence 90 rejected
+Sender: Sequence 90 rejected
+Sender: Sequence 90 rejected
+Sender: Sequence 91 rejected
+Sender: Sequence 90 rejected
+Sender: Sequence 90 rejected
+Sender: Sequence 91 rejected
+Sender: Sequence 90 rejected
+Sender: Sequence 90 rejected
+Sender: Sequence 90 rejected
+Sender: Sequence 90 rejected
+Sender: Sequence 91 rejected
+Sender: Sequence 90 rejected
+Sender: Sequence 90 rejected
+Sender: Sequence 90 rejected
+Sender: Sequence 91 rejected
+Sender: Sequence 90 rejected
+Sender: Sequence 90 rejected
+Sender: Sequence 90 rejected
+Sender: Sequence 90 rejected
+Sender: Sequence 90 rejected
+Sender: Sequence 90 rejected
+Sender: Sequence 90 rejected
+Sender: Sequence 90 rejected
+Sender: Sequence 90 rejected
+Sender: Sequence 90 rejected
+Sender: Sequence 90 rejected
+Sender: Sequence 94 accepted
+Sender: Sequence 95 accepted
+Sender: Sequence 96 accepted
+Sender: Sequence 97 accepted
+Sender: Sequence 98 accepted
+Sender: Sequence 94 rejected
+Sender: Sequence 95 rejected
+Sender: Sequence 94 rejected
+Sender: Sequence 94 rejected
+Sender: Sequence 94 rejected
+Sender: Sequence 95 rejected
+Sender: Sequence 95 rejected
+Sender: Sequence 94 rejected
+Sender: Sequence 94 rejected
+Sender: Sequence 94 rejected
+Sender: Sequence 94 rejected
+Sender: Sequence 94 rejected
+Sender: Sequence 94 rejected
+Sender: Sequence 94 rejected
+Sender: Sequence 94 rejected
+Sender: Sequence 94 rejected
+Sender: Sequence 94 rejected
+Sender: Sequence 94 rejected
+Sender: Sequence 94 rejected
+Sender: Sequence 94 rejected
+Sender: Sequence 94 rejected
+Sender: Sequence 94 rejected
+Sender: Sequence 94 rejected
+Sender: Sequence 95 rejected
+Sender: Sequence 94 rejected
+Sender: Sequence 94 rejected
+Sender: Sequence 99 accepted
+Sender: Sequence 100 accepted
+Sender: Sequence 101 accepted
+Sender: Sequence 102 accepted
+Sender: Sequence 103 accepted
+Sender: Sequence 99 rejected
+Sender: Sequence 104 accepted
+Sender: Sequence 99 rejected
+Sender: Sequence 99 rejected
+Sender: Sequence 99 rejected
+Sender: Sequence 99 rejected
+Sender: Sequence 99 rejected
+Sender: Sequence 100 rejected
+Sender: Sequence 99 rejected
+Sender: Sequence 100 rejected
+Sender: Sequence 99 rejected
+Sender: Sequence 99 rejected
+Sender: Sequence 99 rejected
+Sender: Sequence 99 rejected
+Sender: Sequence 99 rejected
+Sender: Sequence 100 rejected
+Sender: Sequence 99 rejected
+Sender: Sequence 99 rejected
+Sender: Sequence 99 rejected
+Sender: Sequence 99 rejected
+Sender: Sequence 99 rejected
+Sender: Sequence 99 rejected
+Sender: Sequence 99 rejected
+Sender: Sequence 99 rejected
+Sender: Sequence 100 rejected
+Sender: Sequence 99 rejected
+Sender: Sequence 104 rejected
+Sender: Sequence 105 accepted
+Sender: Sequence 106 accepted
+Sender: Sequence 107 accepted
+Sender: Sequence 108 accepted
+Sender: Sequence 109 accepted
+Sender: Sequence 110 accepted
+Sender: Sequence 105 rejected
+Sender: Sequence 105 rejected
+Sender: Sequence 105 rejected
+Sender: Sequence 105 rejected
+Sender: Sequence 105 rejected
+Sender: Sequence 105 rejected
+Sender: Sequence 105 rejected
+Sender: Sequence 105 rejected
+Sender: Sequence 106 rejected
+Sender: Sequence 105 rejected
+Sender: Sequence 106 rejected
+Sender: Sequence 105 rejected
+Sender: Sequence 105 rejected
+Sender: Sequence 105 rejected
+Sender: Sequence 105 rejected
+Sender: Sequence 105 rejected
+Sender: Sequence 105 rejected
+Sender: Sequence 105 rejected
+Sender: Sequence 105 rejected
+Sender: Sequence 105 rejected
+Sender: Sequence 105 rejected
+Sender: Sequence 105 rejected
+Sender: Sequence 106 rejected
+Sender: Sequence 105 rejected
+Sender: Sequence 105 rejected
+Sender: Sequence 111 accepted
+Sender: Sequence 112 accepted
+Sender: Sequence 113 accepted
+Sender: Sequence 114 accepted
+Sender: Sequence 115 accepted
+Sender: Sequence 116 accepted
+Sender: Sequence 117 accepted
+Sender: Sequence 112 rejected
+Sender: Sequence 111 rejected
+Sender: Sequence 111 rejected
+Sender: Sequence 111 rejected
+Sender: Sequence 111 rejected
+Sender: Sequence 112 rejected
+Sender: Sequence 111 rejected
+Sender: Sequence 111 rejected
+Sender: Sequence 111 rejected
+Sender: Sequence 111 rejected
+Sender: Sequence 111 rejected
+Sender: Sequence 111 rejected
+Sender: Sequence 112 rejected
+Sender: Sequence 111 rejected
+Sender: Sequence 111 rejected
+Sender: Sequence 111 rejected
+Sender: Sequence 111 rejected
+Sender: Sequence 111 rejected
+Sender: Sequence 111 rejected
+Sender: Sequence 112 rejected
+Sender: Sequence 111 rejected
+Sender: Sequence 111 rejected
+Sender: Sequence 111 rejected
+Sender: Sequence 118 accepted
+Sender: Sequence 112 rejected
+Sender: Sequence 119 accepted
+Sender: Sequence 120 accepted
+Sender: Sequence 121 accepted
+Sender: Sequence 122 accepted
+Sender: Sequence 119 rejected
+Sender: Sequence 118 rejected
+Sender: Sequence 120 rejected
+Sender: Sequence 121 rejected
+Sender: Sequence 118 rejected
+Sender: Sequence 118 rejected
+Sender: Sequence 119 rejected
+Sender: Sequence 118 rejected
+Sender: Sequence 118 rejected
+Sender: Sequence 118 rejected
+Sender: Sequence 118 rejected
+Sender: Sequence 118 rejected
+Sender: Sequence 118 rejected
+Sender: Sequence 118 rejected
+Sender: Sequence 118 rejected
+Sender: Sequence 118 rejected
+Sender: Sequence 119 rejected
+Sender: Sequence 118 rejected
+Sender: Sequence 118 rejected
+Sender: Sequence 119 rejected
+Sender: Sequence 118 rejected
+Sender: Sequence 118 rejected
+Sender: Sequence 119 rejected
+Sender: Sequence 118 rejected
+Sender: Sequence 118 rejected
+Sender: Sequence 119 rejected
+Sender: Sequence 120 rejected
+Sender: Sequence 121 rejected
+Sender: file transfer completed
+Sender: number of packets received 754
+Sender: number of bytes received 193024
+
+Sender: Handshake established
+Sender: received packet 0
+Sender: sent ACK for packet 0
+Sender: received packet 1
+Sender: sent ACK for packet 1
+Sender: received packet 0
+Sender: sent ACK for packet 0
+Sender: received packet 1
+Sender: sent ACK for packet 1
+Sender: received packet 0
+Sender: sent ACK for packet 0
+Sender: received packet 1
+Sender: sent ACK for packet 1
+Sender: received packet 0
+Sender: sent ACK for packet 0
+Sender: received packet 1
+Sender: sent ACK for packet 1
+Sender: received packet 0
+Sender: sent ACK for packet 0
+Sender: received packet 1
+Sender: sent ACK for packet 1

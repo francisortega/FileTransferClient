@@ -1,0 +1,77 @@
+COMP 326/526                    Assignment 3                       Fall 2014
+
+Issued: October 20, 2014                               Due: November 3, 2014
+                                                     Typed Hardcopy in Class
+1. Loop Unrolling [46 marks]
+
+Consider the following loop:
+
+loop: l.d    f4,0(r1)    l1
+      l.d    f6,0(r2)    l2
+      mul.d  f4,f4,f0    m1
+      mul.d  f6,f6,f2    m2
+      add.d  f4,f4,f6    a1
+      s.d    f4,0(r1)    s1
+      daddui r1,r1,#-8   sub1
+      daddui r2,r2,#-8   sub2
+      bnez   r1,loop     br
+
+Note: Our default is that FP arithmetics have 4 x-boxes.
+
+a) [10 marks] Using the names 'l1' to 's1' for the first six instructions
+in the body of this loop, draw the flow-dependence graph for just these
+instructions.  Label each arrow with the dependence gap between the
+producer and the consumer.
+
+---
+
+In what follows, focus on three flow-dependence types: i) FP arith to
+FP arith, ii) FP arith to FP store, and iii) FP load to FP arith.  Denote
+the number of m-boxes in memory references by '#m', and the number of
+x-boxes in FP arithmetics by '#x'.
+
+b) [6 marks] For each of the three designated flow-dependence types,
+indicate the number of stalls in adjacent producer-consumer pairs as
+functions of '#m" and '#x'.
+
+c) [10 marks] Suppose #m = 1 and #x = 4.  How many stalls occur in one
+iteration of the loop if it is executed exactly as written?
+
+d) [10 marks] Unroll the loop twice.  If one reschedules the unrolled
+loop optimally, how many stalls are left?  (Keep the branch as the last
+instruction.  Show the rescheduled code using the _short_ names.)
+
+e) [10 marks] Increase the 'mul-add dependence gap' to 5 cycles, leaving
+everything else unchanged.  Unroll the loop three times.  If one reschedules
+the unrolled loop optimally, how many stalls are left?  (Keep the branch as
+the last instruction.  Show the rescheduled code using the _short_ names.)
+
+2. Dynamic Instruction Scheduling [54 marks]
+
+Imagine that reservation stations only track whether floating-point operands
+are valid, and that integer operands appear by magic whenever needed.
+
+a) [10 marks] Dispatch instructions 'l1' to 's1' to reservation stations
+rs1(l1) to rs6(s1).  Show the contents of each reservation station.
+Indicate both valid and pending operands in each station.  For the loads,
+you may make the operand entries 'blank'.  That is, mark all load dependences
+as resolved.  For the store, just invent a regular single-operand reservation
+station.
+
+b) [10 marks] After both loads have completed, but no further action has
+occurred, show the contents of each reservation station.  You may mark
+entire reservation stations as 'free'.  Syntax: result[rs9(a9)]; val[f12].
+
+c) [10 marks] At this point, dispatch the two loads of the second iteration,
+viz., 'l3' and 'l4', into reservation stations 'rs1' and 'rs2'.  Moreover,
+let instruction 'm1' of the first iteration complete.  Show the contents of
+each reservation station.
+
+d) [8 marks] Find a flow dependence in the original code, and show that it
+cannot cause harm.
+
+e) [8 marks] Find an antidependence in the original code, and show that it
+cannot cause harm.
+
+f) [8 marks] Find an output dependence in the original code, and show that
+it cannot cause harm.

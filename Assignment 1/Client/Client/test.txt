@@ -1,0 +1,118 @@
+COMP 326/526                  Assignment 2                         Fall 2014
+
+Issued: September 29, 2014                             Due: October 13, 2014
+
+1. Pipeline Basics [20 marks]
+
+Consider the f | d | x | m | w pipeline, where the '|' are pipeline latches.
+Latch names are derived from the box names on either side.
+
+a) [10 marks] To which latch does each box write?  From which latch does
+each box read?  Is there precisely one latch that can be written to, or
+read from, by a given box?  Explain.  Next, draw the space-time diagram
+for the code below, and consider the flow of value "r1".
+
+dadd r1,r2,r3
+dadd r4,r1,r5
+dadd r6,r1,r7
+
+Do you wish to modify your earlier answer?  Explain.
+
+b) [10 marks] Focus on the first instruction alone.  What does the f-box
+send to the d-box?  What does the d-box send to the x-box?  Do either the
+m-box or the w-box receive anything from the f-box?  Explain.
+
+2. Linear Pipelining [30 marks]
+
+Use the following code:
+
+loop: ld    r1,0(r2)
+      daddi r1,r1,#1
+      sd    r1,0(r2)
+      daddi r2,r2,#4
+      dsub  r4,r3,r2
+      bnez  r4,loop
+
+a) [5 marks] How many flow dependences does this code contain?  Is there
+one flow dependence that is different from the others?  Explain.
+
+b) [5 marks] Draw the space-time diagram of the first iteration of this
+loop.
+
+loop: ld    r1,0(r2)
+      daddi r1,r1,#1
+      sd    r1,0(r2)
+      daddi r2,r2,#4
+      dsub  r4,r3,r2
+      bnez  r4,loop
+
+c) [5 marks] In the 5-stage pipeline, assume the longest stage requires
+0.8 ns for its compute portion, and 0.1 ns for its write portion.  What
+is the clock-cycle time of this 5-stage pipeline?  If a 10-stage pipeline
+is produced by splitting all stages in half, what is the cycle time of the
+10-stage pipeline?
+
+d) [15 marks] The 10-stage pipeline has some subtleties.  First, each pair
+of new boxes is a mini pipeline.  A mini pipeline must finish computing
+its result before forwarding the answer to some other mini pipeline.
+Second, if the mini pipeline is <a1, a2>, a1 is a hardware device that
+cannot be doing two things at once.  Draw the space-time diagram of the
+first iteration of this loop executing on the 10-stage pipeline.
+
+loop: ld    r1,0(r2)
+      daddi r1,r1,#1
+      sd    r1,0(r2)
+      daddi r2,r2,#4
+      dsub  r4,r3,r2
+      bnez  r4,loop
+
+3. Pipeline Performance and Stalls [30 marks]
+
+a) [15 marks] Consider the following code segment:
+
+daddi r5,r0,#3
+ld    r1,0(r3)
+dadd  r6,r1,r5
+ld    r2,0(r4)
+dadd  r7,r2,r5
+
+Draw a space-time diagram of the code and show the cycle of the 'w' stage
+of each 'dadd'.  Indicate the number of stalls.  Next, replace the m-box
+with 3 1-cycle m-boxes.  That is, assume a *7-stage pipeline*, viz.,
+'f d x m m m w'.  Draw a space-time diagram of the code and show the cycle
+of the 'w' stage of each 'dadd'.  Indicate the number of stalls.  How many
+more stalls are there?  How many more stalls per instruction?  Express the
+number of stalls as a function of the number of m-boxes.
+
+b) [15 marks] Consider the following code fragment:
+
+loop: ld    r1,0(r3)
+      ld    r2,0(r4)
+      dadd  r1,r1,r2
+      sd    0(r3),r1
+      daddi r3,r3,#4
+      daddi r4,r4,#4
+      dsub  r6,r5,r3
+      bnez  r6, loop
+
+The loop iterates 90 times.  Draw a space-time diagram of this code.
+Calculate the total execution time of the loop.
+
+4. Floating-Point Pipeline [20 marks]
+
+Consider the following code fragment:
+
+loop: l.d   f0,0(r2)
+      l.d   f2,0(r3)
+      s.d   f0,0(r2)
+      sub.d f4,f4,f0
+      add.d f4,f4,f4
+      daddi r2,r2,#8
+      daddi r3,r3,#8
+      dsub  r4,r5,r3
+      bnez  r4,loop
+
+Two changes have been made.  Now, both 'sub.d' and 'add.d' have 4 x-boxes.
+Functional units have been duplicated and are fully pipelined.  The loop
+iterates 90 times.  Draw the space-time diagram of this code.  Calculate
+the total execution time of the loop.
